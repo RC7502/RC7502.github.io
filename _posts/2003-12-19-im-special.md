@@ -11,4 +11,4 @@ This <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=ind
 <br />
 
 <br />
-I've been torn lately on what kind of comics to do for next week. I either want to do Christmas comics, or do a special "Best of 2003" week like every other website on the planet. Except that my best of 2003 would be jokes and not just another top 10 list. What do you guys think? <Br><br><!--more--><img src='/wp/wp-content/comics/20031219.gif' alt'' />
+I've been torn lately on what kind of comics to do for next week. I either want to do Christmas comics, or do a special "Best of 2003" week like every other website on the planet. Except that my best of 2003 would be jokes and not just another top 10 list. What do you guys think? <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031219.gif' alt'' />

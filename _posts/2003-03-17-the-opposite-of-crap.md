@@ -30,4 +30,4 @@ Continuing his streak of great parties, there were lots of people, lots of games
 <br />
 It wasn't all video games because we also had Catch Phrase and RAW Deal. I think at some point people were watching Lord of the Rings. All in all it was a great time. In addition to the new comic I also updated the <a href=modules.php?op=modload&name=Comics&file=index&action=characters>characters</a> page.
 <!--more-->
-<img src="/wp/wp-content/comics/20030317.gif" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20030317.gif" alt="" />

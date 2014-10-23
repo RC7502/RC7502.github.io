@@ -18,4 +18,4 @@ For some reason the new comic didn't get uploaded so I'll try to upload it again
 <br />
 Ok, now <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=256>it's up.</a>
 <!--more-->
-<img src="/wp/wp-content/comics/20030310.gif" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20030310.gif" alt="" />

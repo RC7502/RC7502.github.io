@@ -17,4 +17,4 @@ Ok, I haven't actually got this game in the mail yet but I've been interested ev
 <br />
 Fun fact of the day:
 <br />
-If you uncoiled your small and large intestine and streched them out all the way, you would die.<Br><br><!--more--><img src='/wp/wp-content/comics/20030430.gif' alt'' />
+If you uncoiled your small and large intestine and streched them out all the way, you would die.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030430.gif' alt'' />

@@ -9,4 +9,4 @@ tags: [rogg, twitter]
 ---
 I decided to try something new, where I asked my friends on Twitter for comic ideas and tried to interpret them as best I can. I call it Twitter Theater. Our first entry comes from TheRaja using the suggestion "Man finds magic dildo... doesn't like magic after." If you have comic suggestions my Twitter username is chill182.
 
-<img class="alignnone size-medium wp-image-1398" title="Too Far?" src="http://bitsmack.com/wp/wp-content/uploads/2008/07/20080701.jpg" alt="" />
+<img class="alignnone size-medium wp-image-1398" title="Too Far?" src="http://dl.bitsmack.com/uploads/2008/07/20080701.jpg" alt="" />

@@ -13,4 +13,4 @@ The Jaguar release at Easton was not at all what I expected. When kruton, Goz an
 Saturday night kruton, the youth group and I went back to Columbus for a Christian rock concert. Squad 50, Thousand Foot Krutch and Reliant K are all pretty cool bands, and if you haven't heard them, check them out. 
 <br />
 <br />
-Kruton moved back to the dorm Sunday as you can see by this <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=44>comic.</a> I gave XBOX Live another try and it looks like they worked out the network problems because I was in a race within a minute of turning on the XBOX. I also had no trouble at all finding people to play with. <br /><br /><!--more--><img src='/wp/wp-content/comics/20020826.gif' alt'' />
+Kruton moved back to the dorm Sunday as you can see by this <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=44>comic.</a> I gave XBOX Live another try and it looks like they worked out the network problems because I was in a race within a minute of turning on the XBOX. I also had no trouble at all finding people to play with. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020826.gif' alt'' />

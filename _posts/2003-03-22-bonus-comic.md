@@ -11,4 +11,4 @@ Here's a special <a href=http://www.bitsmack.com/modules.php?op=modload&name=Com
 <br />
 
 <br />
-Enjoy!<Br><br><!--more--><img src='/wp/wp-content/comics/20030322.gif' alt'' />
+Enjoy!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030322.gif' alt'' />

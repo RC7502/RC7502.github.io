@@ -21,4 +21,4 @@ Zelda, the Four Swords comes out on Tuesday. I actually preordered this one for 
 <br />
 2. Most of my friends still have their GBAs and link cables left over from Final Fantasy Crystal Chronicles. 
 <br />
-3. I got a free t-shirt for preordering.<Br><br><!--more--><img src='/wp/wp-content/comics/20040608.png' alt'' />
+3. I got a free t-shirt for preordering.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040608.png' alt'' />

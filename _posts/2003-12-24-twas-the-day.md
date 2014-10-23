@@ -11,4 +11,4 @@ tags: []
 <br />
 
 <br />
-All I have to do is make it through one more day of work and then I have four days of relaxation. Ahhhhh.<Br><br><!--more--><img src='/wp/wp-content/comics/20031224.gif' alt'' />
+All I have to do is make it through one more day of work and then I have four days of relaxation. Ahhhhh.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031224.gif' alt'' />

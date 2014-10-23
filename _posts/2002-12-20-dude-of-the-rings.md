@@ -24,4 +24,4 @@ In other news I am still trying to coerce K-Dog into posting on Bitsmack. This t
 Today is my last day at Microsoft. I sure will miss answering phones... NOT. 
 <br />
 <br />
-I have also added a new section to the right side. For those of you who can't get enough of Goz (and who can really), you can now read articles from his site www.ryancollins.org.<br /><br /><!--more--><img src='/wp/wp-content/comics/20021220.gif' alt'' />
+I have also added a new section to the right side. For those of you who can't get enough of Goz (and who can really), you can now read articles from his site www.ryancollins.org.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021220.gif' alt'' />

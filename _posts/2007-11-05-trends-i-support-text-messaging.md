@@ -15,7 +15,7 @@ The cell phone became popular in the 90s, first with stockbrokers, then with non
 
 For old people, text messaging is like sending a telegram from your hand STOP. You can type a message on your cell phone then send it to someone else's cell phone. You don't have to talk to them at all! This works great for people you don't like talking to as well as situations where you can't talk to someone, such as a rock concert, meeting at work, or the birth of your second child. Messaging is more concise than a conversation. Instead of calling your partner up and hearing about their day you can just send them a message that says "bring home da corn chips." Everyone wins! 
 
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/11/texting.jpg' title='Texting means never having to SAY I love you.' />
+<img src='http://dl.bitsmack.com/uploads/2007/11/texting.jpg' title='Texting means never having to SAY I love you.' />
 
 Cell phones were nice because it was easy to get a hold of people. But text messaging really made them great because it is the easiest, coldest, impersonal way to communicate. Thanks teenage youth culture!
 

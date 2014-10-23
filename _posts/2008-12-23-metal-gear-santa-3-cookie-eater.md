@@ -11,4 +11,4 @@ tags: [christmas, metal gear, metal gear santa]
 
 <a href="http://bitsmack.com/wp/2004/12/21/2-bit-comics/">Metal Gear Santa 2</a>
 
-<a href="http://bitsmack.com/wp/2008/12/23/metal-gear-sanâ€¦3-cookie-eater/"><img class="alignnone size-full wp-image-1532" title="There is a reason no one has ever captured Santa Claus" src="http://bitsmack.com/wp/wp-content/uploads/2008/12/20081223.jpg" alt="" /></a>
+<a href="http://bitsmack.com/wp/2008/12/23/metal-gear-sanâ€¦3-cookie-eater/"><img class="alignnone size-full wp-image-1532" title="There is a reason no one has ever captured Santa Claus" src="http://dl.bitsmack.com/uploads/2008/12/20081223.jpg" alt="" /></a>

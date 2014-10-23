@@ -11,4 +11,4 @@ It's a lot easier coming up with <a href=http://www.bitsmack.com/modules.php?op=
 <br />
 
 <br />
-For those of you sitting on the edge of you seat, I did get passed the hard part on KOTOR. You can breathe now.<Br><br><!--more--><img src='/wp/wp-content/comics/20030924.gif' alt'' />
+For those of you sitting on the edge of you seat, I did get passed the hard part on KOTOR. You can breathe now.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030924.gif' alt'' />

@@ -11,4 +11,4 @@ Thanksgiving is here, and <a HREF='modules.php?op=modload&name=Comics&file=index
 <br />
 <p>I'm sure you'll be able to come up with more things to be thankful about. Add them in the comments!
 <!--more-->
-<img src="/wp/wp-content/comics/20031126.jpg" alt="" /></p>
+<img src="/http://dl.bitsmack.com/comics/20031126.jpg" alt="" /></p>

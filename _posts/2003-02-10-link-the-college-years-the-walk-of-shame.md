@@ -16,4 +16,4 @@ I decided to devote this weeks' comics to the great franchise known as Zelda. Th
 My weekend consisted of exploring my new surroundings. Which means I just drove around looking for video game stores. I found one near my apt that I think is locally owned. They have good prices on used games. I picked up Paper Mario for the N64, $16. This game is sweet! I'll have a full review up soon. I also located a nearby DDR Extreme machine. It is in a really good location, there is a water fountain nearby and lots of open area.
 <br />
 <br />
-Oh yeah, one more thing. Kruton is <a href=modules.php?op=modload&name=Game_Ratings&file=index&action=newestreviews>weird.</a><br /><br /><!--more--><img src='/wp/wp-content/comics/20030210.gif' alt'' />
+Oh yeah, one more thing. Kruton is <a href=modules.php?op=modload&name=Game_Ratings&file=index&action=newestreviews>weird.</a><br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030210.gif' alt'' />

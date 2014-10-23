@@ -11,4 +11,4 @@ Today marks the 4 year anniversary of Bitsmack. Rejoice!
 
 <!--more-->
 
-<img id="image840" alt="20060705.jpg" title="20060705.jpg" src="http://bitsmack.com/wp/wp-content/uploads/2006/07/20060705.jpg" />
+<img id="image840" alt="20060705.jpg" title="20060705.jpg" src="http://dl.bitsmack.com/uploads/2006/07/20060705.jpg" />

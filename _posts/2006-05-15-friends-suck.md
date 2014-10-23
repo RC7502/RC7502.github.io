@@ -8,5 +8,5 @@ categories: [Goz's Corner]
 tags: []
 ---
 Especially with new cars...
-<p align="center"><img alt="Charmander and his new car" id="image807" src="http://bitsmack.com/wp/wp-content/uploads/2006/05/goz-060515.jpg" /></p>
+<p align="center"><img alt="Charmander and his new car" id="image807" src="http://dl.bitsmack.com/uploads/2006/05/goz-060515.jpg" /></p>
 <p align="left"></p>

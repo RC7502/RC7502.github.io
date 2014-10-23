@@ -15,4 +15,4 @@ Merry Christmas everyone! As always here are links to past Bitsmack Christmas co
 <a href="http://bitsmack.com/wp/2005/12/24/its-a-wonderful-bitsmack/">2005</a>
 <a href="http://bitsmack.com/wp/2006/12/24/a-gamers-carol/">2006</a>
 
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/12/20071225.jpg' title='His nose is only gay because its happy, it loses something in the translation from Japanese' />
+<img src='http://dl.bitsmack.com/uploads/2007/12/20071225.jpg' title='His nose is only gay because its happy, it loses something in the translation from Japanese' />

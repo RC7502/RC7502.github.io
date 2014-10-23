@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2010/05/09/comic-k-dogs-bachelor-party/"><img src="http://bitsmack.com/wp/wp-content/uploads/2010/05/20100509.jpg" alt="" title="that pizza delivery girl was really friendly!" width="530" height="680" class="alignnone size-full wp-image-1916" /></a>
+<a href="http://bitsmack.com/wp/2010/05/09/comic-k-dogs-bachelor-party/"><img src="http://dl.bitsmack.com/uploads/2010/05/20100509.jpg" alt="" title="that pizza delivery girl was really friendly!" width="530" height="680" class="alignnone size-full wp-image-1916" /></a>

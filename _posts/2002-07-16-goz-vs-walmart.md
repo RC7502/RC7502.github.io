@@ -8,4 +8,4 @@ categories: [Comics]
 tags: []
 ---
 <!--more-->
-<img src="/wp/wp-content/comics/20020716.gif" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20020716.gif" alt="" />

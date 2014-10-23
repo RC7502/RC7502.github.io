@@ -24,5 +24,5 @@ Not only is this an extended Christmas comic, it is also comic number 300! Below
 <a href="http://www.bitsmack.com/wp/?p=584">Christmas 2004</a>
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20051225.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20051225.png" alt="" />
 

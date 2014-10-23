@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [ashley, movies, rc]
 ---
-<a href="http://bitsmack.com/wp/2009/08/11/toy-story-3-alternate-ending/"><img src="http://bitsmack.com/wp/wp-content/uploads/2009/08/20090811.jpg" alt="" title="" class="alignnone size-full wp-image-1663" /></a>
+<a href="http://bitsmack.com/wp/2009/08/11/toy-story-3-alternate-ending/"><img src="http://dl.bitsmack.com/uploads/2009/08/20090811.jpg" alt="" title="" class="alignnone size-full wp-image-1663" /></a>

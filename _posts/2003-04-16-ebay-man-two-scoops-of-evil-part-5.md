@@ -23,4 +23,4 @@ What I need from you the users are some ideas to make Bitsmack better. How can I
 <br />
 
 <br />
-Oh yeah, one more thing. For the "Ask Bitsmack" I'll be answering one question a week, starting next Wednesday.<Br><br><!--more--><img src='/wp/wp-content/comics/20030416.gif' alt'' />
+Oh yeah, one more thing. For the "Ask Bitsmack" I'll be answering one question a week, starting next Wednesday.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030416.gif' alt'' />

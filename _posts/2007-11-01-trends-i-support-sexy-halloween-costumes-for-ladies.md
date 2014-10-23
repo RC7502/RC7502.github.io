@@ -15,7 +15,7 @@ The first trend that I fully support is sexy Halloween costumes for ladies. With
 
 The formula is a simple one. Take any regular costume, add the word "sexy" to the front and then expose as much skin as you want or, in the case of girls with low inhibitions, expose as much skin as the law will allow. Mission accomplished! 
 
- <img src='http://bitsmack.com/wp/wp-content/uploads/2007/11/medium_1809301110_ccfe3b716c_o.jpg' alt='I donâ€™t know which Harry Potter movie this is from, but now Iâ€™m willing to see it.' />
+ <img src='http://dl.bitsmack.com/uploads/2007/11/medium_1809301110_ccfe3b716c_o.jpg' alt='I donâ€™t know which Harry Potter movie this is from, but now Iâ€™m willing to see it.' />
 
 I should warn you though, not every sexy costume is Good Times USA. There are restrictions to what is considered awesome. First of all if you are under 18 you should not be wearing sexy costumes. Until you are an adult stick to the same Rainbow Brite and Strawberry Shortcake costumes you've been wearing since you were a kid. Second, the sexy costume only works if you have a moderate amount of sexiness to begin with. I understand that beauty is in the eye of the beholder but if the party you go to has people covering their eyes in disgust you might have been better off cutting two eye holes in a sheet.
 

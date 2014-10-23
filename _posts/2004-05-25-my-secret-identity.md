@@ -15,4 +15,4 @@ I'm trying hard to decide what direction to go with the comic so I'll leave it u
 <br />
 
 <br />
-Also, I did a physical inventory of the 1st ever special edition Bitsmack T-shirts and found that there are only 18 left, 9 large and 9 x-large. If you ever considered buying one you should do it now because once they're gone, they're gone for good. While I may do more Bitsmack shirts this design won't be made again.<Br><br><!--more--><img src='/wp/wp-content/comics/20040525.png' alt'' />
+Also, I did a physical inventory of the 1st ever special edition Bitsmack T-shirts and found that there are only 18 left, 9 large and 9 x-large. If you ever considered buying one you should do it now because once they're gone, they're gone for good. While I may do more Bitsmack shirts this design won't be made again.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040525.png' alt'' />

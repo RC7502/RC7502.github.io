@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [brad, rc]
 ---
-<img class="alignnone size-medium wp-image-1400" title="One of these days I'll try this MGS people talk about" src="http://bitsmack.com/wp/wp-content/uploads/2008/07/20080703.jpg" alt="" />
+<img class="alignnone size-medium wp-image-1400" title="One of these days I'll try this MGS people talk about" src="http://dl.bitsmack.com/uploads/2008/07/20080703.jpg" alt="" />

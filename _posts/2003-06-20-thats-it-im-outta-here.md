@@ -15,4 +15,4 @@ I'm heading out of town on vacation all next week. I like having a week complete
 <br />
 
 <br />
-In other news, this is your last week to get the <a href=http://www.cafeshops.com/bitsmack.2608095>Legolas Pro Skater</a> t-shirt. Starting in July the shirt will have a completely different comic.<Br><br><!--more--><img src='/wp/wp-content/comics/20030620.gif' alt'' />
+In other news, this is your last week to get the <a href=http://www.cafeshops.com/bitsmack.2608095>Legolas Pro Skater</a> t-shirt. Starting in July the shirt will have a completely different comic.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030620.gif' alt'' />

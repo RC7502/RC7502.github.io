@@ -12,4 +12,4 @@ tags: []
 <br />
 I also added a new feature to Bitsmack. When you look at a game you have the option of searching for that game on eBay.
 <!--more-->
-<img src="/wp/wp-content/comics/20030303.gif" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20030303.gif" alt="" />

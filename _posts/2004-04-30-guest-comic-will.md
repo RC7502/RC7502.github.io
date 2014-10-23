@@ -7,4 +7,4 @@ comments: true
 categories: [Guest Comics]
 tags: []
 ---
-What happens when you decide to read email that's been flagged as junk mail? You get a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=409>guest comic!</a><br /><br /><!--more--><img src='/wp/wp-content/comics/20040430.jpg' alt'' />
+What happens when you decide to read email that's been flagged as junk mail? You get a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=409>guest comic!</a><br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20040430.jpg' alt'' />

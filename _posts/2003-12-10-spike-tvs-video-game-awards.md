@@ -11,4 +11,4 @@ Yes, this past weekend <a HREF='modules.php?op=modload&name=Comics&file=index&ac
 <br />
 <p>And my final rant is the deceptive advertising for the show. All the ads featured classic arcade characters and sounds, where were these in the show?
 <!--more-->
-<img src="/wp/wp-content/comics/20031210.jpg" alt="" /></p>
+<img src="/http://dl.bitsmack.com/comics/20031210.jpg" alt="" /></p>

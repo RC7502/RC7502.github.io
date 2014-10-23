@@ -11,4 +11,4 @@ The idea for <a href=modules.php?op=modload&name=Comics&file=index&action=comic&
 <br />
 Remember, you can send your own comics or comic ideas to <a href=mailto:comics@bitsmack.com>comics@bitsmack.com</a>. I take the good ideas and turn them into comics. The bad ideas I send to ABC so that they can turn them into crappy sitcoms.
 <br />
-<br /><br /><!--more--><img src='/wp/wp-content/comics/20021113.gif' alt'' />
+<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021113.gif' alt'' />

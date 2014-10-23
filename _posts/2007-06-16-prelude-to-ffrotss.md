@@ -11,4 +11,4 @@ SPOILER ALERT if you plan on seeing Fantastic Four, which you probably should ha
 
 <!--more-->
 
-<img alt="I mean if I was blackmailing someone, I probably wouldn't give them the power to kill me, but maybe that's just me." id="image1117" title="I mean if I was blackmailing someone, I probably wouldn't give them the power to kill me, but maybe that's just me." src="http://bitsmack.com/wp/wp-content/uploads/2007/06/20070616.jpg" />
+<img alt="I mean if I was blackmailing someone, I probably wouldn't give them the power to kill me, but maybe that's just me." id="image1117" title="I mean if I was blackmailing someone, I probably wouldn't give them the power to kill me, but maybe that's just me." src="http://dl.bitsmack.com/uploads/2007/06/20070616.jpg" />

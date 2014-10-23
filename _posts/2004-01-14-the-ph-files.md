@@ -17,4 +17,4 @@ tags: []
 <br />
 
 <br />
-Also, yesterday was Goz's birthday. Hurrah!<Br><br><!--more--><img src='/wp/wp-content/comics/20040114.gif' alt'' />
+Also, yesterday was Goz's birthday. Hurrah!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040114.gif' alt'' />

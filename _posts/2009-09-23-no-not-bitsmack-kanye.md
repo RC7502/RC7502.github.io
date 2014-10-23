@@ -7,4 +7,4 @@ comments: true
 categories: [General News]
 tags: []
 ---
-<img src="http://bitsmack.com/wp/wp-content/uploads/2009/09/kanye.png" alt="kanye vs Bitsmack.com" title="kanye vs Bitsmack.com" class="aligncenter size-full wp-image-1714" />
+<img src="http://dl.bitsmack.com/uploads/2009/09/kanye.png" alt="kanye vs Bitsmack.com" title="kanye vs Bitsmack.com" class="aligncenter size-full wp-image-1714" />

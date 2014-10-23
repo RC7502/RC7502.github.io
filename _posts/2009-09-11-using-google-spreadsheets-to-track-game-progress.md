@@ -19,6 +19,6 @@ F. Last Played (date)
 
 I entered in the last 20 games I've played and then created a sideways stacked bar chart based on Columns A through C. I sorted the list by B descending so that the most completed games were on top. Here's what I ended up with:
 
-<img src="http://bitsmack.com/wp/wp-content/uploads/2009/09/top_20_games.png" alt="" title="" class="alignnone size-full wp-image-1682" />
+<img src="http://dl.bitsmack.com/uploads/2009/09/top_20_games.png" alt="" title="" class="alignnone size-full wp-image-1682" />
 
 Some of the XBOX 360 games are based off of number of achievements remaining and some are based on number of levels left to beat story mode. It's really up to you to define what you consider "completing the game". I put the Last Played date on there so that if I haven't played a game in long time I'll take it off the list. If you're really into statistics like I am or maybe you just need motivation to beat a game you've been struggling with, this is something you can set up in about 5 min and access from any computer with an internet connection. 

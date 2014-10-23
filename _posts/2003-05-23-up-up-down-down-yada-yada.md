@@ -27,4 +27,4 @@ Goz and I came across this site while trying to find the "Like a Hurricane" remi
 <br />
 
 <br />
-Warning: trying to read any text on the above page could cause headaches, vomiting and/or impotance.<Br><br><!--more--><img src='/wp/wp-content/comics/20030523.gif' alt'' />
+Warning: trying to read any text on the above page could cause headaches, vomiting and/or impotance.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030523.gif' alt'' />

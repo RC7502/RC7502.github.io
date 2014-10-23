@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img id="image1139" src="http://bitsmack.com/wp/wp-content/uploads/2007/08/20070806.jpg" title="If Froot Loops could talk they would say OOOOOOOOO....." />
+<img id="image1139" src="http://dl.bitsmack.com/uploads/2007/08/20070806.jpg" title="If Froot Loops could talk they would say OOOOOOOOO....." />

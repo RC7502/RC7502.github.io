@@ -29,4 +29,4 @@ Well that's about all for now since class is about over.
 <br />
 lata,
 <br />
-K-dog out!!<br /><br /><Br><br><!--more--><img src='/wp/wp-content/comics/20031024.gif' alt'' />
+K-dog out!!<br /><br /><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031024.gif' alt'' />

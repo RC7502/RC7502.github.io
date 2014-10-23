@@ -9,4 +9,4 @@ tags: []
 ---
 Oh yes, be afraid, it is Wednesday <a HREF='modules.php?op=modload&name=Comics&file=index&action=comic&id=357'>and another comic is here.</a>
 <!--more-->
-<img src="/wp/wp-content/comics/20031119.jpg" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20031119.jpg" alt="" />

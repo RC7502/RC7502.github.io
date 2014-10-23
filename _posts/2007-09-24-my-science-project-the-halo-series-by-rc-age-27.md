@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/09/20070924.jpg' title='Rejected names for Master Chief: Colonel Captain, Doctor General, Sgt. Leader, Mr. Officer' />
+<img src='http://dl.bitsmack.com/uploads/2007/09/20070924.jpg' title='Rejected names for Master Chief: Colonel Captain, Doctor General, Sgt. Leader, Mr. Officer' />

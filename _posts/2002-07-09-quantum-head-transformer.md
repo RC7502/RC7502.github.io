@@ -8,4 +8,4 @@ categories: [Comics]
 tags: []
 ---
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/comic%205.jpg" alt="" />
+<img src="http://dl.bitsmack.com/comics/comic%205.jpg" alt="" />

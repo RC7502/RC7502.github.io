@@ -11,4 +11,4 @@ I got the idea for today's <a href=http://www.bitsmack.com/modules.php?op=modloa
 <br />
 
 <br />
-In other news, I hope to get the tshirts ordered this week before I leave for New Orleans on Thursday. I think it will be a good time even though it is a work related Microsoft convention.<Br><br><!--more--><img src='/wp/wp-content/comics/20031006.gif' alt'' />
+In other news, I hope to get the tshirts ordered this week before I leave for New Orleans on Thursday. I think it will be a good time even though it is a work related Microsoft convention.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031006.gif' alt'' />

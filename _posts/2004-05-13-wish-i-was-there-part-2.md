@@ -19,4 +19,4 @@ More E3 News:
 <br />
 <a href=http://www.gamespot.com/ps2/rpg/finalfantasy12/preview_6097934.html>Final Fantasy XII hands on preview</a>
 <br />
-<a href=http://www.totalvideogames.com/pages/articles/media.php?video=328>Super Mario Bros DS gameplay footage</a><Br><br><!--more--><img src='/wp/wp-content/comics/20040513.png' alt'' />
+<a href=http://www.totalvideogames.com/pages/articles/media.php?video=328>Super Mario Bros DS gameplay footage</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040513.png' alt'' />

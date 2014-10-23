@@ -15,4 +15,4 @@ Saturday we had a party for Brad and Will graduating. There were like a bunch of
 <br />
 
 <br />
-Next week I head to Lakeside for my 10th year. Which means I'm going to need some guest comics. If you think you have what it takes to entertain a bunch of geeks send your comic to guestcomics@bitsmack.com.<Br><br><!--more--><img src='/wp/wp-content/comics/20040622.png' alt'' />
+Next week I head to Lakeside for my 10th year. Which means I'm going to need some guest comics. If you think you have what it takes to entertain a bunch of geeks send your comic to guestcomics@bitsmack.com.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040622.png' alt'' />

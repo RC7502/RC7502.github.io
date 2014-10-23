@@ -15,4 +15,4 @@ I haven't touched a video game for about a week. I need a break to work on other
 <br />
 
 <br />
-I was having problems with my internet connection last night if you were trying to get to the BBS. It should be working ok now though. <Br><br><!--more--><img src='/wp/wp-content/comics/20030425.gif' alt'' />
+I was having problems with my internet connection last night if you were trying to get to the BBS. It should be working ok now though. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030425.gif' alt'' />

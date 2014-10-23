@@ -10,4 +10,4 @@ tags: []
 The ongoing story of K-dog's life...
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20051204.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20051204.png" alt="" />

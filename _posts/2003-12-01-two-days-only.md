@@ -15,4 +15,4 @@ It's offically the holiday season and while I look forward to Christmas itself, 
 <br />
 
 <br />
-Anyway, I did get a chance to try out the PS2 EyeToy at Best Buy. It was actually fun, and wasn't as gimicky as I thought it would be.<Br><br><!--more--><img src='/wp/wp-content/comics/20031201.gif' alt'' />
+Anyway, I did get a chance to try out the PS2 EyeToy at Best Buy. It was actually fun, and wasn't as gimicky as I thought it would be.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031201.gif' alt'' />

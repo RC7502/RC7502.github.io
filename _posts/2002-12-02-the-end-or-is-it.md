@@ -13,4 +13,4 @@ Berzerker fans might be upset by <a href=modules.php?op=modload&name=Comics&file
 However, all is not lost. Anyone who has ever read a comic book before knows that no one stays dead forever. Stay tuned to see if, when and how Berzerker returns.
 <br />
 <br />
-In other news, this is my last week of class... ever. In a couple weeks I trade in my slacker wardrobe for the shackles and chains of the real world. I can't wait!<br /><br /><!--more--><img src='/wp/wp-content/comics/20021202.gif' alt'' />
+In other news, this is my last week of class... ever. In a couple weeks I trade in my slacker wardrobe for the shackles and chains of the real world. I can't wait!<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021202.gif' alt'' />

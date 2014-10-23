@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2009/12/11/comic-rcs-eleven-part-6/"><img src="http://bitsmack.com/wp/wp-content/uploads/2009/12/20091211.jpg" alt="" title="(dramatic music swells)" width="680" height="680" class="alignnone size-full wp-image-1845" /></a>
+<a href="http://bitsmack.com/wp/2009/12/11/comic-rcs-eleven-part-6/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091211.jpg" alt="" title="(dramatic music swells)" width="680" height="680" class="alignnone size-full wp-image-1845" /></a>

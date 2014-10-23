@@ -30,4 +30,4 @@ An Evening with Kevin Smith is a 2 disc DVD set that shows highlights of Q&A ses
 The feature is about 3 hours long on 2 discs but I still felt like it was ending too soon. I actually hurt I was laughing so loud. My only minor complaint is that there are no special features whatsoever. I don't really know what they could have included anyway. 
 <br />
 <br />
-I rate DVDs 3 ways: Don't watch it, rent it, or buy it. If you are a big Kevin Smith fan like me you'll probably buy it. However if you don't need it for your collection you may want to rent it because it doesn't have any extra features to keep you coming back.<br /><br /><!--more--><img src='/wp/wp-content/comics/20030101.gif' alt'' />
+I rate DVDs 3 ways: Don't watch it, rent it, or buy it. If you are a big Kevin Smith fan like me you'll probably buy it. However if you don't need it for your collection you may want to rent it because it doesn't have any extra features to keep you coming back.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030101.gif' alt'' />

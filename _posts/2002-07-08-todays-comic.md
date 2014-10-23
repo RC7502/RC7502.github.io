@@ -10,4 +10,4 @@ tags: []
 This is my favorite comic so far. If you have never seen the movie Memento it is a great psychological thriller. I also threw in some quotes from Simpsons, of course.
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/comic%204.jpg" alt="" />
+<img src="http://dl.bitsmack.com/comics/comic%204.jpg" alt="" />

@@ -15,4 +15,4 @@ Now you may not understand what is going on in the comic, I know I didn't at fir
 In other news, kruton finally let me borrow Vice City so I can see what all the hype is about. I need something to hold me over until Metroid. 
 <br />
 <br />
-Oh and last night was ACM game night. Age of Mythology is a pretty cool game.<br /><br /><!--more--><img src='/wp/wp-content/comics/20021115.gif' alt'' />
+Oh and last night was ACM game night. Age of Mythology is a pretty cool game.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021115.gif' alt'' />

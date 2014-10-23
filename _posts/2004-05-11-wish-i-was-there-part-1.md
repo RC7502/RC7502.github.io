@@ -45,4 +45,4 @@ This one is for Goz: <a href=http://www.gamespot.com/xbox/action/conkerliveandun
 <br />
 
 <br />
-Personally I'm pretty excited about the Nintendo DS. I'll post more links when I find more news.<Br><br><!--more--><img src='/wp/wp-content/comics/20040511.png' alt'' />
+Personally I'm pretty excited about the Nintendo DS. I'll post more links when I find more news.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040511.png' alt'' />

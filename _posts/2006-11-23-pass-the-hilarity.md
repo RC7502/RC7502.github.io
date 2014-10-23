@@ -17,4 +17,4 @@ Happy Thanksgiving! Here are some of the previous Thanksgiving comics we've had:
 
 <a href="http://bitsmack.com/wp/2005/11/26/part-of-the-team-part-1/">2005</a>
 
-<img alt="20061123.jpg" id="image975" src="http://bitsmack.com/wp/wp-content/uploads/2006/11/20061123.jpg" />
+<img alt="20061123.jpg" id="image975" src="http://dl.bitsmack.com/uploads/2006/11/20061123.jpg" />

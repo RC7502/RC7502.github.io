@@ -19,4 +19,4 @@ In other news, I saw this band on The Screen Savers called <a href=http://www.mi
 <br />
 
 <br />
-Have you ever wondered what the world would be like if everyone was like K-Dog? I imagine it to be something like this <a href=http://10kcommotion.com/>webcomic.</a> It's a shame when I see someone with artistic skills draw a comic with such a crappy story. Click on the above link if you dare peer into this alternate K-dogian reality.<Br><br><!--more--><img src='/wp/wp-content/comics/20030723.gif' alt'' />
+Have you ever wondered what the world would be like if everyone was like K-Dog? I imagine it to be something like this <a href=http://10kcommotion.com/>webcomic.</a> It's a shame when I see someone with artistic skills draw a comic with such a crappy story. Click on the above link if you dare peer into this alternate K-dogian reality.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030723.gif' alt'' />

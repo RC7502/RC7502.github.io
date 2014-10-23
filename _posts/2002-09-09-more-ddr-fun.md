@@ -23,4 +23,4 @@ ThunderCracker - Don't worry, we'll make them pay for un-dooming themselves.
 <br />
 -- Transformers Season 1, Countdown to Extinction
 <!--more-->
-<img src="/wp/wp-content/comics/20020909.gif" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20020909.gif" alt="" />

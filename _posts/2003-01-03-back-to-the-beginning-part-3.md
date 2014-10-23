@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<!--more--><img src="/wp/wp-content/comics/20030103.gif" alt="" />
+<!--more--><img src="/http://dl.bitsmack.com/comics/20030103.gif" alt="" />

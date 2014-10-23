@@ -15,4 +15,4 @@ Saturday night we tried an interesting experiment. Brad, Will, Cassadi, Goz and 
 <br />
 
 <br />
-Check back tomorrow for a MAME cabinet update!<Br><br><!--more--><img src='/wp/wp-content/comics/20040601.png' alt'' />
+Check back tomorrow for a MAME cabinet update!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040601.png' alt'' />

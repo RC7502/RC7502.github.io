@@ -15,4 +15,4 @@ After my comic on Friday, I decided to pick up Culdcept for the PS2. It is more 
 <br />
 
 <br />
-Over the weekend I also updated the ads on Bitsmack. The first is Maveric PC which builds gaming PCs. The second is PlayAsia, which is one of the best import video game sites I've found. I've also added Google Adwords to the left column. It displays links that should be of interest to gamers. Bitsmack has been providing a fun place for gamers to hang out for almost two years now and by checking out these sponsors you can help keep it going. <Br><br><!--more--><img src='/wp/wp-content/comics/20040405.png' alt'' />
+Over the weekend I also updated the ads on Bitsmack. The first is Maveric PC which builds gaming PCs. The second is PlayAsia, which is one of the best import video game sites I've found. I've also added Google Adwords to the left column. It displays links that should be of interest to gamers. Bitsmack has been providing a fun place for gamers to hang out for almost two years now and by checking out these sponsors you can help keep it going. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040405.png' alt'' />

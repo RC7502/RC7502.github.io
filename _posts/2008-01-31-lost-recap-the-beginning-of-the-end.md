@@ -11,4 +11,4 @@ The fourth season of Lost went off with a *click*. Spoilers abound!
 
 <!--more-->
 
-<img src='http://bitsmack.com/wp/wp-content/uploads/2008/01/20080131.jpg' title='Best Line of the Episode: Jack to Locke â€œYOU ARE INSANE!â€' />
+<img src='http://dl.bitsmack.com/uploads/2008/01/20080131.jpg' title='Best Line of the Episode: Jack to Locke â€œYOU ARE INSANE!â€' />

@@ -10,4 +10,4 @@ tags: []
 Some friends become enemies, some enemies become friends.
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20051213.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20051213.png" alt="" />

@@ -16,4 +16,4 @@ This weekend my Grandparents had an auction since they are moving. I finally got
 In 2 weeks BiTSMACK is going to have a table at CinciClassic. Goz and I are talking about maybe giving away a prize or something. I urge any gamers in the Cincinnati area to stop by. I'll post more details such as time and location later. Stay tuned.
 <br />
 <br />
-<br /><br /><!--more--><img src='/wp/wp-content/comics/20020923.gif' alt'' />
+<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020923.gif' alt'' />

@@ -19,4 +19,4 @@ But, finally the stars aligned themselves over the weekend, and I am now a proud
 
 It also, of course, plays Game Boy Advance games, and what's the point of getting a new game system without any games to go along with it?  So, I have added <em>The Simspons Road Rage</em> to my collection... a lame, uninspired game, good only for a few minutes' mindlessness.  But, the real gem is <em>Onimusha Tactics</em>, a medieval Japanese turn-based strategy/RPG game that has totally sucked me into its world.  It seems that all of the RPGs I've played over the years have all been Tolkein-esque affairs with elves, dwarfs and dragons.  I never thought I'd get into a game with Japanese characters since, you know, all Japanese people are exactly the same, but, it turns out I was wrong... I can tell the difference: Oboro is an airhead, Magoichi is a jerk, and Kabuki is cool.
 
-A <a target="_blank" href="http://bitsmack.com/wp/wp-content/comics/20021021.gif">Bitsmack cartoon from a long time ago</a> now describes me perfectly.
+A <a target="_blank" href="http://dl.bitsmack.com/comics/20021021.gif">Bitsmack cartoon from a long time ago</a> now describes me perfectly.

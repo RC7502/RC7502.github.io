@@ -15,4 +15,4 @@ It appears just about everyone I know went and saw the new Lord of the Rings mov
 <br />
 
 <br />
-Anyway, Christmas is about a week away and I'm really not that excited. My job has been sucking the last couple months, my love life is nonexistant and I'm just generally bored. I'll take up the role of Scrooge and bah humbug my way through New Years. Rudolph, Frosty and the Ghost of Christmas past would have to fight off a horde of Nazi Robots to save this Christmas. Now if you'll excuse me, I've got to go set up my Festivus pole.<Br><br><!--more--><img src='/wp/wp-content/comics/20031217.gif' alt'' />
+Anyway, Christmas is about a week away and I'm really not that excited. My job has been sucking the last couple months, my love life is nonexistant and I'm just generally bored. I'll take up the role of Scrooge and bah humbug my way through New Years. Rudolph, Frosty and the Ghost of Christmas past would have to fight off a horde of Nazi Robots to save this Christmas. Now if you'll excuse me, I've got to go set up my Festivus pole.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031217.gif' alt'' />

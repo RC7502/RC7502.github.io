@@ -9,7 +9,7 @@ tags: []
 ---
 Happy Valentine's Day everybody!
 <table><tr><td>
-<img src='http://www.bitsmack.com/wp/wp-content/comics/0000g1xs.jpg' alt='Valentines Day' /></td></tr></table>
+<img src='http://dl.bitsmack.com/comics/0000g1xs.jpg' alt='Valentines Day' /></td></tr></table>
 
 For more Valentine's Day love:
 <a href="http://www.i-mockery.com/minimocks/valentines06/default.php">I-Mockery</a>

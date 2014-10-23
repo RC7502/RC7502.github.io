@@ -25,4 +25,4 @@ Last night the <a href=http://www.devryguyz.com>Devryguyz</a> and I did another 
 <br />
 
 <br />
-In other news I finally got Keyboardmania yesterday. It's funny that no matter how good at rhythm games I think I am, I always suck at a new one the first time. A long time ago I used to play piano but with this game I have no idea where to put my hands. It's a pretty cool game though and I look forward to playing it some more.<Br><br><!--more--><img src='/wp/wp-content/comics/20030528.gif' alt'' />
+In other news I finally got Keyboardmania yesterday. It's funny that no matter how good at rhythm games I think I am, I always suck at a new one the first time. A long time ago I used to play piano but with this game I have no idea where to put my hands. It's a pretty cool game though and I look forward to playing it some more.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030528.gif' alt'' />

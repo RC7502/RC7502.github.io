@@ -10,4 +10,4 @@ tags: []
 Here's a comic where no one explodes.
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20060107.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20060107.png" alt="" />

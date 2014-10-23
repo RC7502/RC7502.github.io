@@ -9,4 +9,4 @@ tags: []
 ---
 <P>Today's <A HREF='modules.php?op=modload&name=Comics&file=index&action=comic&id=301'>comic</a> should be a lesson about the dangers of coming up with game ideas at the local supermarket late at night.
 <br />
-<Br><br><!--more--><img src='/wp/wp-content/comics/20030627.gif' alt'' />
+<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030627.gif' alt'' />

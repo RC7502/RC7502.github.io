@@ -15,4 +15,4 @@ My initial impressions of Metroid Prime is that it is awesome. I think Nintendo 
 <br />
 
 <br />
-Uh... gotta go.<Br><br><!--more--><img src='/wp/wp-content/comics/20021120.gif' alt'' />
+Uh... gotta go.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20021120.gif' alt'' />

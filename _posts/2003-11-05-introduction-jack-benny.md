@@ -9,4 +9,4 @@ tags: []
 ---
 As I branch out and try to be more creative, I leave you with <a HREF='modules.php?op=modload&name=Comics&file=index&action=comic&id=351'>this comic</a>.
 <!--more-->
-<img src="/wp/wp-content/comics/20031105.jpg" alt="" />
+<img src="/http://dl.bitsmack.com/comics/20031105.jpg" alt="" />

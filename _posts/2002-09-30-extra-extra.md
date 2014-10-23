@@ -24,4 +24,4 @@ Finally, the DDR 5th Mix machine at the Findlay mall is down for repairs because
 <br />
 Well that's all for today,
 <br />
-K-dog out!!<br /><br /><!--more--><img src='/wp/wp-content/comics/20020930.gif' alt'' />
+K-dog out!!<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020930.gif' alt'' />

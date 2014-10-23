@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-In case you didn't realize it there was a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=439>new comic last Thursday.</a><br /><br /><!--more--><img src='/wp/wp-content/comics/20050106.png' alt'' />
+In case you didn't realize it there was a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=439>new comic last Thursday.</a><br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20050106.png' alt'' />

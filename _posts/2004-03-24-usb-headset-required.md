@@ -15,4 +15,4 @@ Last weekend I got a chance to see a sneak preview of Jersey Girl. The movie is 
 <br />
 
 <br />
-Now for my rant, last Sunday The Simpsons did this long spoof of Star Wars The Phantom Menace. Wtf, is this 1998? I've grown mega-tired of sitcoms using Star Wars references. They aren't even funny anymore. But even worse is that they devoted a third of the episode to this joke when Star Wars is so far from recent. I may not watch South Park often but at least their stuff is based on current events. What's up next week Simpsons, some Titanic jokes? <Br><br><!--more--><img src='/wp/wp-content/comics/20040324.gif' alt'' />
+Now for my rant, last Sunday The Simpsons did this long spoof of Star Wars The Phantom Menace. Wtf, is this 1998? I've grown mega-tired of sitcoms using Star Wars references. They aren't even funny anymore. But even worse is that they devoted a third of the episode to this joke when Star Wars is so far from recent. I may not watch South Park often but at least their stuff is based on current events. What's up next week Simpsons, some Titanic jokes? <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040324.gif' alt'' />

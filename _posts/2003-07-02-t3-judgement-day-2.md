@@ -15,4 +15,4 @@ Also the <a href=http://www.bitsmack.com/modules.php?op=modload&name=Game_Rating
 <br />
 
 <br />
-Lastly, the comic of the month is <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=112>Link: The College Years - The Walk of Shame.</a> You can get a t-shirt with this comic <a href=http://www.cafepress.com/bitsmack>here.</a> Buy now before it turns out I'm breaking some kind of copyright law. <Br><br><!--more--><img src='/wp/wp-content/comics/20030702.gif' alt'' />
+Lastly, the comic of the month is <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=112>Link: The College Years - The Walk of Shame.</a> You can get a t-shirt with this comic <a href=http://www.cafepress.com/bitsmack>here.</a> Buy now before it turns out I'm breaking some kind of copyright law. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030702.gif' alt'' />

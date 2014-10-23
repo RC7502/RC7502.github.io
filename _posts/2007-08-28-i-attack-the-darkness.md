@@ -9,4 +9,4 @@ tags: []
 ---
 Sorry the comic was a day late. I got caught up last night working on "The Greatest Untitled Project of All Time of The Week." More info on that if it ever comes to fruition. Otherwise there will be less info.
 
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/08/20070828.jpg' title='Jim Hoss is his own light source' />
+<img src='http://dl.bitsmack.com/uploads/2007/08/20070828.jpg' title='Jim Hoss is his own light source' />

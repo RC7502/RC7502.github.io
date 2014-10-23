@@ -13,4 +13,4 @@ tags: []
 <br />
 </p><p><a HREF='http://www.n-gage.com/downloads/extras/wallpapers/800x600_road.jpg'>And this is where I cried for help.</a> Say what?
 <!--more-->
-<img src="/wp/wp-content/comics/20031010.jpg" alt="" /></p>
+<img src="/http://dl.bitsmack.com/comics/20031010.jpg" alt="" /></p>

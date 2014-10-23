@@ -11,4 +11,4 @@ I am still raising money for MDA. I need to have something by next Wednesday. Pl
 
 <a href="https://www.mdaevent.org/ParticipantInfo.aspx?j=5542c709-92bd-4557-8346-9d6a79a34c11">Click here!!</a>
 
-<img alt="mda.jpg" id="image902" src="http://bitsmack.com/wp/wp-content/uploads/2006/09/mda.jpg" />
+<img alt="mda.jpg" id="image902" src="http://dl.bitsmack.com/uploads/2006/09/mda.jpg" />

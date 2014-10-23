@@ -15,4 +15,4 @@ Ok, I'm hooked on Final Fantasy Tactics Advance now that K-Dog finally explained
 <br />
 
 <br />
-Also as far as the tshirts I am extending the offer. I still hope to get them sent out by the end of the month. Thanks for you patience.<Br><br><!--more--><img src='/wp/wp-content/comics/20030915.gif' alt'' />
+Also as far as the tshirts I am extending the offer. I still hope to get them sent out by the end of the month. Thanks for you patience.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030915.gif' alt'' />

@@ -11,4 +11,4 @@ I am trying something new doing a recap comic for each new Lost episode. This fi
 
 <!--more-->
 
-<img src='http://bitsmack.com/wp/wp-content/uploads/2008/01/20080124.jpg' title='Maybe Ben should have just elaborated on why calling for help would kill them all?' />
+<img src='http://dl.bitsmack.com/uploads/2008/01/20080124.jpg' title='Maybe Ben should have just elaborated on why calling for help would kill them all?' />

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2011/12/14/comic-irresponsible-retail/attachment/20111214/" rel="attachment wp-att-2313"><img src="http://bitsmack.com/wp/wp-content/uploads/2011/12/20111214.jpg" title="What about Victoria&#039;s Secret for Kids? Do they sell maternity clothes?" title="" width="680" height="380" class="alignnone size-full wp-image-2313" /></a>
+<a href="http://bitsmack.com/wp/2011/12/14/comic-irresponsible-retail/attachment/20111214/" rel="attachment wp-att-2313"><img src="http://dl.bitsmack.com/uploads/2011/12/20111214.jpg" title="What about Victoria&#039;s Secret for Kids? Do they sell maternity clothes?" title="" width="680" height="380" class="alignnone size-full wp-image-2313" /></a>

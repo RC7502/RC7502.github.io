@@ -23,4 +23,4 @@ So where do we go from here? The site Bitsmack will go on unchanged as a video g
 <br />
 
 <br />
-Thanks!<Br><br><!--more--><img src='/wp/wp-content/comics/20040710.png' alt'' />
+Thanks!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040710.png' alt'' />

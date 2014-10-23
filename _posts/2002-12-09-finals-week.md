@@ -36,4 +36,4 @@ Here is how my time will be spent this week:
 <br />
 As you can see I am busy.
 <br />
-<br /><br /><!--more--><img src='/wp/wp-content/comics/20021209.gif' alt'' />
+<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021209.gif' alt'' />

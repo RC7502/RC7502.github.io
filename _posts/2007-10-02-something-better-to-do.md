@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/10/20071002.jpg' title='Yes, my butt is ringing, where do you keep your phone? No wait, thatâ€™s not right.' />
+<img src='http://dl.bitsmack.com/uploads/2007/10/20071002.jpg' title='Yes, my butt is ringing, where do you keep your phone? No wait, thatâ€™s not right.' />

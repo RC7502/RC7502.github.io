@@ -27,4 +27,4 @@ The day will come when Star Wars games will add the year to the end of their tit
 <br />
 
 <br />
-I am a Star Wars fan, but I'd rather play something with a new storyline, like KOTOR. At least then I wouldn't have to shoot those darn AT-ATs anymore.<Br><br><!--more--><img src='/wp/wp-content/comics/20031003.gif' alt'' />
+I am a Star Wars fan, but I'd rather play something with a new storyline, like KOTOR. At least then I wouldn't have to shoot those darn AT-ATs anymore.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031003.gif' alt'' />

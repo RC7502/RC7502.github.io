@@ -16,4 +16,4 @@ Now I normally don't sleep very soundly but I obviously overslept by a couple mo
 So yesterday I finally got Guitar Freaks/Drummania for PS2. Upon picking it up at the post office I immedately raised the game into the air and proclaimed "by the power of Greyskull, I HAVE THE POWER!" However, my drum pads still haven't came yet and it's just not the same playing it with the controller.
 <br />
 <br />
-The countdown is on, 2 weeks until graduation.<br /><br /><!--more--><img src='/wp/wp-content/comics/aprilscomic1.gif' alt'' />
+The countdown is on, 2 weeks until graduation.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/aprilscomic1.gif' alt'' />

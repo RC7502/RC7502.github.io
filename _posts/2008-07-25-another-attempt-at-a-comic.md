@@ -7,4 +7,4 @@ comments: true
 categories: [Guest Comics]
 tags: []
 ---
-Inspired by actual events.  The shirts were changed to protect the innocent.  No clowns were harmed during the making of this comic, only bats.<br /><br /><img src="http://bitsmack.com/wp/wp-content/uploads/2008/07/dark-knight.jpg" />
+Inspired by actual events.  The shirts were changed to protect the innocent.  No clowns were harmed during the making of this comic, only bats.<br /><br /><img src="http://dl.bitsmack.com/uploads/2008/07/dark-knight.jpg" />

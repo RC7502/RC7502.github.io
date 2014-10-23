@@ -11,4 +11,4 @@ tags: []
 <br />
 
 <br />
-For those of you that have your finger far from the pulse of the gaming community, Star Wars: Knights of the Old Republic was released this week. Thanks to Bioware, the XBOX finally has a great RPG, the fact that it is Star Wars is just bonus. My full review will come later after the initial wonderment has worn off. So far though the game is really fun. <Br><br><!--more--><img src='/wp/wp-content/comics/20030718.gif' alt'' />
+For those of you that have your finger far from the pulse of the gaming community, Star Wars: Knights of the Old Republic was released this week. Thanks to Bioware, the XBOX finally has a great RPG, the fact that it is Star Wars is just bonus. My full review will come later after the initial wonderment has worn off. So far though the game is really fun. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030718.gif' alt'' />

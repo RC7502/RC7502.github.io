@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img alt="20070117.jpg" id="image1032" src="http://bitsmack.com/wp/wp-content/uploads/2007/01/20070117.jpg" />
+<img alt="20070117.jpg" id="image1032" src="http://dl.bitsmack.com/uploads/2007/01/20070117.jpg" />

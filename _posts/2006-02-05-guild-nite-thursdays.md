@@ -11,4 +11,4 @@ When you don't play Warcraft on Thursday nights, this is what you miss:
 
 <!--more-->
 
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20060205.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20060205.png" alt="" />

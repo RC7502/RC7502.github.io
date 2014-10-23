@@ -10,4 +10,4 @@ tags: []
 Epilogue.
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20051223.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20051223.png" alt="" />

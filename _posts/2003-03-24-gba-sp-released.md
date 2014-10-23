@@ -15,4 +15,4 @@ Some stores had it as early as Friday. I picked mine up Saturday at Best Buy. Ba
 <br />
 
 <br />
-In other news, my copy of The Wind Waker should be shipped out tomorrow. All this talk about Zelda lately made me want to put up a new poll. What is your favorite Zelda game?<Br><br><!--more--><img src='/wp/wp-content/comics/20030324.gif' alt'' />
+In other news, my copy of The Wind Waker should be shipped out tomorrow. All this talk about Zelda lately made me want to put up a new poll. What is your favorite Zelda game?<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030324.gif' alt'' />

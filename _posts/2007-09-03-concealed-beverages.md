@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/09/20070903.jpg' title='We are at a football game if you couldnâ€™t tell by the official OSU apparel we are sporting' />
+<img src='http://dl.bitsmack.com/uploads/2007/09/20070903.jpg' title='We are at a football game if you couldnâ€™t tell by the official OSU apparel we are sporting' />

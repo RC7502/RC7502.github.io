@@ -29,4 +29,4 @@ Blue Gender (M-Th 12:30am) hasn't impressed me yet. A guy is frozen and wakes up
 <br />
 
 <br />
-If anyone is watching these shows, let me know in the forum. I need someone to talk about Fooly Cooly with.<Br><br><!--more--><img src='/wp/wp-content/comics/20030806.gif' alt'' />
+If anyone is watching these shows, let me know in the forum. I need someone to talk about Fooly Cooly with.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030806.gif' alt'' />

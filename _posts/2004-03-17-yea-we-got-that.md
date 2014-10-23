@@ -13,4 +13,4 @@ tags: []
 <br />
 <P>Today only a small minority actually know what Grand Theft Auto: Vice City is about and they don't know a XBox from a PSX from a PS2. Arcades are practically non-existant and people are bombarded with other uses of their entertainment money and time.
 <br />
-<P>So, are we heading for a crash?<Br><br><!--more--><img src='/wp/wp-content/comics/20040317.gif' alt'' />
+<P>So, are we heading for a crash?<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040317.gif' alt'' />

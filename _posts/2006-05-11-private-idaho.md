@@ -9,4 +9,4 @@ tags: []
 ---
 Yes I still do comics from time to time. Here comes one now.
 
-<!--more--><img src="http://www.bitsmack.com/wp/wp-content/uploads/2006/05/20060511.png" />
+<!--more--><img src="http://dl.bitsmack.com/uploads/2006/05/20060511.png" />

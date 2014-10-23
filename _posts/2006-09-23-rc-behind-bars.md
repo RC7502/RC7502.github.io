@@ -11,4 +11,4 @@ Somebody nominated me for this MDA lock up fundraiser. Basically, in a couple of
 
 <a href="https://www.mdaevent.org/ParticipantInfo.aspx?j=5542c709-92bd-4557-8346-9d6a79a34c11">Click here!!</a>
 
-<img id="image902" alt="mda.jpg" src="http://bitsmack.com/wp/wp-content/uploads/2006/09/mda.jpg" />
+<img id="image902" alt="mda.jpg" src="http://dl.bitsmack.com/uploads/2006/09/mda.jpg" />

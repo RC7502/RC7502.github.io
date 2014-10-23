@@ -9,15 +9,15 @@ tags: []
 ---
 <strong>Main Characters</strong>
 
-<img src="http://bitsmack.com/wp/wp-content/uploads/2008/04/rc.jpg" alt="rc.jpg" /> RC - The leader and hero of Bitsmack.
-<img src="http://bitsmack.com/wp/wp-content/uploads/2008/04/kdog.jpg" alt="kdog.jpg" /> K-Dog - RC's nephew. He plays DDR, various rhythm games and XBOX 360.
-<img src="http://bitsmack.com/wp/wp-content/uploads/2008/04/goz.jpg" alt="goz.jpg" /> Goz - RC's older brother. He plays Atari.
-<img src="http://bitsmack.com/wp/wp-content/uploads/2008/04/brad.jpg" alt="brad.jpg" /> Brad - Former roommate of RC. He reads books and draws actual art.
-<img class="alignnone size-full wp-image-1409" title="ashley" src="http://bitsmack.com/wp/wp-content/uploads/2008/07/ashley.jpg" alt="" />Ashley - RC's wife. She's not a geek but tolerates RC's geekiness. 
+<img src="http://dl.bitsmack.com/uploads/2008/04/rc.jpg" alt="rc.jpg" /> RC - The leader and hero of Bitsmack.
+<img src="http://dl.bitsmack.com/uploads/2008/04/kdog.jpg" alt="kdog.jpg" /> K-Dog - RC's nephew. He plays DDR, various rhythm games and XBOX 360.
+<img src="http://dl.bitsmack.com/uploads/2008/04/goz.jpg" alt="goz.jpg" /> Goz - RC's older brother. He plays Atari.
+<img src="http://dl.bitsmack.com/uploads/2008/04/brad.jpg" alt="brad.jpg" /> Brad - Former roommate of RC. He reads books and draws actual art.
+<img class="alignnone size-full wp-image-1409" title="ashley" src="http://dl.bitsmack.com/uploads/2008/07/ashley.jpg" alt="" />Ashley - RC's wife. She's not a geek but tolerates RC's geekiness. 
 
-<img class="alignnone size-full wp-image-1410" title="hoss" src="http://bitsmack.com/wp/wp-content/uploads/2008/07/hoss.jpg" alt="" /> Jim Hoss - Local Republican.
+<img class="alignnone size-full wp-image-1410" title="hoss" src="http://dl.bitsmack.com/uploads/2008/07/hoss.jpg" alt="" /> Jim Hoss - Local Republican.
 
-<img class="alignnone size-full wp-image-1411" title="rogg" src="http://bitsmack.com/wp/wp-content/uploads/2008/07/rogg.jpg" alt="" /> The Rogg - Card gamer and NES enthusiast.
+<img class="alignnone size-full wp-image-1411" title="rogg" src="http://dl.bitsmack.com/uploads/2008/07/rogg.jpg" alt="" /> The Rogg - Card gamer and NES enthusiast.
 
 <strong>Backstory</strong>
 

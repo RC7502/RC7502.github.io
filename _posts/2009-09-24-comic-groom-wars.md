@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img src="http://bitsmack.com/wp/wp-content/uploads/2009/09/20090923.jpg" alt="" title="one more game and then we'll head back to Ashley and Kim with the spare tire" class="alignnone size-full wp-image-1730" />
+<img src="http://dl.bitsmack.com/uploads/2009/09/20090923.jpg" alt="" title="one more game and then we'll head back to Ashley and Kim with the spare tire" class="alignnone size-full wp-image-1730" />

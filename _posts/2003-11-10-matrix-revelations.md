@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-I wanted to like it, but unfortunately Matrix Revolutions <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=353>sucked.</a><Br><br><!--more--><img src='/wp/wp-content/comics/20031110.gif' alt'' />
+I wanted to like it, but unfortunately Matrix Revolutions <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=353>sucked.</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031110.gif' alt'' />

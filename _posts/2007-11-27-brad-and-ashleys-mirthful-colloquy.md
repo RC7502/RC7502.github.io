@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<img src='http://bitsmack.com/wp/wp-content/uploads/2007/11/20071127.jpg' title='No that is not where the glow stick got stuck, you sicko.' />
+<img src='http://dl.bitsmack.com/uploads/2007/11/20071127.jpg' title='No that is not where the glow stick got stuck, you sicko.' />

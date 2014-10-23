@@ -35,4 +35,4 @@ How much longer will there be a PC game market?<br />
 <a href='http://en.wikipedia.org/wiki/Wilhelm_scream'>Wilhelm Scream</a><br />
 <p>==Closing Remarks==<br />
 <br />
-Suggestions and comments to bitsmack@gmail.com or call us at (206) 222-2487.<Br><br><!--more--><img src='/wp/wp-content/comics/20050715.png' alt'' />
+Suggestions and comments to bitsmack@gmail.com or call us at (206) 222-2487.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20050715.png' alt'' />

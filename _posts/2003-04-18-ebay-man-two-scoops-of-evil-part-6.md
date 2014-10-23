@@ -17,4 +17,4 @@ Cool Site of the Month:
 <br />
 
 <br />
-One more thing, if you want to be recognized for getting your question answered on Ask Bitsmack, you have to put your name after your question. Unless of course you don't want to be recognized which is entirely possible.<Br><br><!--more--><img src='/wp/wp-content/comics/20030418.gif' alt'' />
+One more thing, if you want to be recognized for getting your question answered on Ask Bitsmack, you have to put your name after your question. Unless of course you don't want to be recognized which is entirely possible.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030418.gif' alt'' />

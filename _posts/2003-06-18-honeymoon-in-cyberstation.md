@@ -11,4 +11,4 @@ Read <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=ind
 <br />
 
 <br />
-Last night we had another successful episode of The Bitsmack/Devryguyz Sunshine Variety Hour (BDSVH). This month's special guest was DJParanoia from Bemanistyle.com. Their site is down right now, but they're working on getting running again. The topic of the show was our most anticipated games shown at E3. At soon as I get the MP3 uploaded I'll let you know. <Br><br><!--more--><img src='/wp/wp-content/comics/20030618.gif' alt'' />
+Last night we had another successful episode of The Bitsmack/Devryguyz Sunshine Variety Hour (BDSVH). This month's special guest was DJParanoia from Bemanistyle.com. Their site is down right now, but they're working on getting running again. The topic of the show was our most anticipated games shown at E3. At soon as I get the MP3 uploaded I'll let you know. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030618.gif' alt'' />

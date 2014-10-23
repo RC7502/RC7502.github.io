@@ -11,4 +11,4 @@ Ok I guess it breaks the RSS feed when I put it on the front page.
 
 <!--more-->
 
-<img id="image912" alt="20061006.jpg" src="http://bitsmack.com/wp/wp-content/uploads/2006/10/20061006.jpg" />
+<img id="image912" alt="20061006.jpg" src="http://dl.bitsmack.com/uploads/2006/10/20061006.jpg" />

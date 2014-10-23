@@ -10,4 +10,4 @@ tags: []
 It has been awhile since I have put up a comic, so here you go:
 
 <!--more-->
-<img src="http://www.bitsmack.com/wp/wp-content/comics/20060312.png" alt="" />
+<img src="http://dl.bitsmack.com/comics/20060312.png" alt="" />

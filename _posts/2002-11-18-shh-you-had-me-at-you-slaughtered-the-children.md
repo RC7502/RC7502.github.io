@@ -24,4 +24,4 @@ Anyway, there was another DDR tournament in Findlay Saturday. This time there wa
 <br />
 Well, I'm going back to my game of Vice City. Then tomorrow, the highly anticipated Metroid Prime is released.
 <br />
-<br /><br /><!--more--><img src='/wp/wp-content/comics/20021118.gif' alt'' />
+<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021118.gif' alt'' />

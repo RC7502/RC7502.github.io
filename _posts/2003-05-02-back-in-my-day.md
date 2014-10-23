@@ -15,4 +15,4 @@ Last night the Devryguyz, Goz and I went and saw X2. My short review: awesome. I
 <br />
 
 <br />
-In other news, the <a href=http://www.bitsmack.com/modules.php?op=modload&name=Game_Ratings&file=index&action=topmembers>Top Member</a> for the month of April is mushroomman2004. Keep writing great reviews, you could be next!<Br><br><!--more--><img src='/wp/wp-content/comics/20030502.gif' alt'' />
+In other news, the <a href=http://www.bitsmack.com/modules.php?op=modload&name=Game_Ratings&file=index&action=topmembers>Top Member</a> for the month of April is mushroomman2004. Keep writing great reviews, you could be next!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030502.gif' alt'' />

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [ashley, rc]
 ---
-<a href="http://bitsmack.com/wp/2008/10/02/wind-storm-08-part"><img class="alignnone size-full wp-image-1459" title="It was kill or be killed I say" src="http://bitsmack.com/wp/wp-content/uploads/2008/10/20081001.jpg" alt="" /></a>
+<a href="http://bitsmack.com/wp/2008/10/02/wind-storm-08-part"><img class="alignnone size-full wp-image-1459" title="It was kill or be killed I say" src="http://dl.bitsmack.com/uploads/2008/10/20081001.jpg" alt="" /></a>

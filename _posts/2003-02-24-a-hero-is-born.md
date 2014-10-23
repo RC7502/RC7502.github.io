@@ -13,4 +13,4 @@ With great power comes great <a href=modules.php?op=modload&name=Comics&file=ind
 Friday night Goz and I went and saw the movie Old School. It was pretty good. My only complaint was that there really wasn't a climax to the movie, it was just a bunch of funny stuff that happens and then it ends. 
 <br />
 <br />
-Saturday was the DDR tournament at Defiance. I'll let KDogg go into more detail on that. <br /><br /><!--more--><img src='/wp/wp-content/comics/20030224.gif' alt'' />
+Saturday was the DDR tournament at Defiance. I'll let KDogg go into more detail on that. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030224.gif' alt'' />
