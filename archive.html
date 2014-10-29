@@ -4,9 +4,9 @@ title: Archive
 ---
 
 <div>
-	<ul>
-	site.categories[comics]
-	{% for posts in site.categories[comics] %}
+	site.categories.['comics']
+	<ul>	
+	{% for posts in site.categories.['comics'] %}
 		<li>posts.title</li>
 		{% for post in posts %}
 		<li>
