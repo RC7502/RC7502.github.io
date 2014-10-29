@@ -4,15 +4,14 @@ title: Archive
 ---
 
 <div>
-	<table>
 	{% assign cat = 'Comics' | downcase %}
 
 	{% for post in site.categories.[cat] %}
-	  <tr>
-		  <td><a href="{{ post.url}}">{{ post.title }}</a></td>
-		  <td><span class="post-date">{{ post.date | date_to_string }}</span></td>
-	  </tr>
+
+		  <div style="float:left"><a href="{{ post.url}}">{{ post.title }}</a></div>
+		  <div style="float:right"><span class="post-date">{{ post.date | date_to_string }}</span></div>
+
 	{% endfor %}
-	</table>
+
 </div>
 
