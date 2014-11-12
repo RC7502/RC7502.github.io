@@ -22,8 +22,8 @@ layout: default
 {% for category in site.categories %}
     {% assign catg_name = category.first %}
 	<div>catg_name = {{ catg_name }}</div>
-	<div>page.category = {{ page.category }}</div>
-    {% if catg_name == page.category | downcase %}
+	<div>page.category = {{ page.categories.first }}</div>
+    {% if catg_name == page.categories.first | downcase %}
         {% assign catg_posts = category.last %}
 		<div>category.last = {{ category.last }}</div>
     {% endif %}
