@@ -2,6 +2,25 @@
 layout: default
 ---
 
+{% for category in site.categories %}
+    {% assign catg_name = category.first %}
+    {% if catg_name == page.categories.first | downcase %}
+        {% assign catg_posts = category.last %}
+    {% endif %}
+{% endfor %}
+{% for post in catg_posts %}
+    {% if post.title == page.title %}
+        {% unless forloop.last %}
+            {% assign next = catg_posts[forloop.index] %}
+            <a href="{{ site.url }}{{ next.url }}">&larr;{{ next.title }}</a>
+        {% endunless %}
+        {% unless forloop.first %}
+            || <a href="{{ site.url }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
+        {% endunless %}
+    {% endif %}
+    {% assign prev = post %}
+{% endfor %}
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
@@ -32,7 +51,7 @@ layout: default
             <a href="{{ site.url }}{{ next.url }}">&larr;{{ next.title }}</a>
         {% endunless %}
         {% unless forloop.first %}
-            <a href="{{ site.url }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
+            || <a href="{{ site.url }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
         {% endunless %}
     {% endif %}
     {% assign prev = post %}
