@@ -21,23 +21,18 @@ layout: default
 
 {% for category in site.categories %}
     {% assign catg_name = category.first %}
-	<div>catg_name = {{ catg_name }}</div>
-	<div>page.category.first = {{ page.categories[0] }}</div>
-    {% if catg_name == page.categories[0] | downcase %}
+    {% if catg_name == page.categories.first | downcase %}
         {% assign catg_posts = category.last %}
-		<div>category.last = {{ category.last }}</div>
     {% endif %}
 {% endfor %}
 {% for post in catg_posts %}
-	<div>post title = {{ post.title }}</div>
-	<div>page title = {{ page.title }}</div>
     {% if post.title == page.title %}
         {% unless forloop.last %}
             {% assign next = catg_posts[forloop.index] %}
-            <a href="{{ site.baseurl }}{{ next.url }}">&larr;{{ next.title }}</a>
+            <a href="{{ site.url }}{{ next.url }}">&larr;{{ next.title }}</a>
         {% endunless %}
         {% unless forloop.first %}
-            | <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
+            <a href="{{ site.url }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
         {% endunless %}
     {% endif %}
     {% assign prev = post %}
