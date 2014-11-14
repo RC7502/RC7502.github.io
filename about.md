@@ -33,3 +33,11 @@ title: About
 2009 - RC and Ashley get engaged. Wedding plans ensue. 
 
 2010 - RC and Ashley get married, proving that geeks can get the girl. 
+
+2011 - RC and Ashley prepare for the ultimate miniboss, a baby!
+
+2012 - The first son of Bitsmack is born.
+
+2013 - Another challenge on the horizon. 
+
+2014 - The Bitsmack kingdom receives its princess.
