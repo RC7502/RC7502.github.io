@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [ashley, rc]
 ---
-<a href="http://bitsmack.com/wp/2009/05/12/dreams-come-true-part-1"><img class="alignnone size-full wp-image-1630" src="http://dl.bitsmack.com/uploads/2009/05/20090512.jpg" title="and I want to get a Cinnabon." /></a>
+<a href="http://bitsmack.com/comics/2009/05/12/dreams-come-true-part-1"><img class="alignnone size-full wp-image-1630" src="http://dl.bitsmack.com/uploads/2009/05/20090512.jpg" title="and I want to get a Cinnabon." /></a>

@@ -20,7 +20,7 @@ Not exactly the same joke, and they were both out the same day, so just chalk th
 These two are much closer to the same joke, and the Ctrl+Alt+Del one comes three months later. So what? It's not really a big deal. When you are doing web comics about video games you're bound to have overlap talking about the same games. I wouldn't even draw attention to it until I saw this:
 
 <a href="http://cad-comic.com/comic.php?d=2007-09-14">http://cad-comic.com/comic.php?d=2007-09-14</a> 9/14/2007
-<a href="http://bitsmack.com/wp/2005/05/16/product-tie-ins/">http://bitsmack.com/wp/2005/05/16/product-tie-ins/</a> 5/16/2005
+<a href="http://bitsmack.com/comics/2005/05/16/product-tie-ins/">http://bitsmack.com/comics/2005/05/16/product-tie-ins/</a> 5/16/2005
 
 That bastard ripped off a comic I made two years ago! He just swapped in Halo 3 for Star Wars. Rationally speaking I'm sure Tim Buckley has never read my comic, but irrationally speaking this is blatant plagiarism! 
 

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [brad, goz, kdog, rc]
 ---
-<a href='http://bitsmack.com/wp/2008/03/04/you-down-with-psp-yeah-you-know-me/'><img src='http://dl.bitsmack.com/uploads/2008/03/20080304.jpg' title='I hope I get this figured out before I complete Daxter' /></a>
+<a href='http://bitsmack.com/comics/2008/03/04/you-down-with-psp-yeah-you-know-me/'><img src='http://dl.bitsmack.com/uploads/2008/03/20080304.jpg' title='I hope I get this figured out before I complete Daxter' /></a>

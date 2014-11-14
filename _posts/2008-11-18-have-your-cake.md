@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [ashley, rc]
 ---
-<a href="http://bitsmack.com/wp/2008/11/18/takes-the-cake/"><img src="http://dl.bitsmack.com/uploads/2008/11/20081118.jpg" title="The wheels were made out of Oreo cookies" /></a>
+<a href="http://bitsmack.com/comics/2008/11/18/takes-the-cake/"><img src="http://dl.bitsmack.com/uploads/2008/11/20081118.jpg" title="The wheels were made out of Oreo cookies" /></a>

@@ -13,7 +13,7 @@ A few examples... the main TV in our house is a 9-inch Toshiba built circa 1983.
 
 So, my only point with this prattle is to help you understand the magnitude of what I am about to reveal.
 
-It was <a href="http://bitsmack.com/wp/2004/02/02/lungfluke-enters-the-1990s/">two and a half years ago </a>that I entered the Nintendo handheld universe, with a cool purple Game Boy Color system.  And, as awesome as that system was (is!), it was just too annoying: dippy external light, bulkiness, and a patented scratch-attracting screen that Apple subsequently licensed for use on the iPod nano.
+It was <a href="http://bitsmack.com/comics/2004/02/02/lungfluke-enters-the-1990s/">two and a half years ago </a>that I entered the Nintendo handheld universe, with a cool purple Game Boy Color system.  And, as awesome as that system was (is!), it was just too annoying: dippy external light, bulkiness, and a patented scratch-attracting screen that Apple subsequently licensed for use on the iPod nano.
 
 But, finally the stars aligned themselves over the weekend, and I am now a proud owner of a brand new Game Boy Advance SP (the new kind with the brighter screen).  This system is so cool that it defies words.  It's so small, the screen is so bright (and gets even brighter), and has built-in, long-lasting rechargable batteries.  It plays my old Game Boy and Game Boy Color games just fine.
 

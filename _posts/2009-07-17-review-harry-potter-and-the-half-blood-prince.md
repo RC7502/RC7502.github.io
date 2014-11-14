@@ -7,7 +7,7 @@ comments: true
 categories: [RC's Rants]
 tags: [movies, review]
 ---
-Wouldn't it have been cool if the Half Blood Prince turned out to be Prince? Anyway, earlier this week I <a href="http://bitsmack.com/wp/2009/07/15/the-first-five-harry-potter-films-from-someone-who-hasnt-read-the-books/">watched the first 5 Harry Potter films</a> even though I haven't read the books. Here's what I thought about the Half Blood Prince.
+Wouldn't it have been cool if the Half Blood Prince turned out to be Prince? Anyway, earlier this week I <a href="http://bitsmack.com/comics/2009/07/15/the-first-five-harry-potter-films-from-someone-who-hasnt-read-the-books/">watched the first 5 Harry Potter films</a> even though I haven't read the books. Here's what I thought about the Half Blood Prince.
 
 It starts out like the rest with Harry in the real world. He's utilizing the skills he learned in his Art of Pimping Skills class to get the digits of a young diner waitress. Just when things are going well Dumbledore shows up and gets in the way by casting "cockus blockimus". Oh Harry will you ever find love?
 

@@ -7,7 +7,7 @@ comments: true
 categories: [RC's Rants]
 tags: []
 ---
-Previously in <a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-1/">this article</a> I reviewed the DC New 52 and made it through the A titles and Batman. Moving along...
+Previously in <a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-1/">this article</a> I reviewed the DC New 52 and made it through the A titles and Batman. Moving along...
 
 <strong>Birds of Prey</strong><br>
 What I think is going on: Black Canary and a couple other girls form a chick super hero team.<br>

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2012/05/10/comic-the-first-night/attachment/20110510/" rel="attachment wp-att-2360"><img src="http://dl.bitsmack.com/uploads/2012/05/20110510.jpg" alt="" title="" width="680" height="680" class="alignnone size-full wp-image-2360" /></a>
+<a href="http://bitsmack.com/comics/2012/05/10/comic-the-first-night/" rel="attachment wp-att-2360"><img src="http://dl.bitsmack.com/uploads/2012/05/20110510.jpg" alt="" title="" width="680" height="680" class="alignnone size-full wp-image-2360" /></a>

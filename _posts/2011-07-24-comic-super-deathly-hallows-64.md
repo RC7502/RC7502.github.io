@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2011/07/24/comic-super-deathly-hallows-64/"><img src="http://dl.bitsmack.com/uploads/2011/07/20110724.jpg" alt="" title="Hold Up + Y grapple with the emotional severity of the circumstances that surround you." width="680" height="680" class="alignnone size-full wp-image-2246" /></a>
+<a href="http://bitsmack.com/comics/2011/07/24/comic-super-deathly-hallows-64/"><img src="http://dl.bitsmack.com/uploads/2011/07/20110724.jpg" alt="" title="Hold Up + Y grapple with the emotional severity of the circumstances that surround you." width="680" height="680" class="alignnone size-full wp-image-2246" /></a>

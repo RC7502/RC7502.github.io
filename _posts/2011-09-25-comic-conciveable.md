@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2011/09/25/comic-conciveable/"><img src="http://dl.bitsmack.com/uploads/2011/09/20110925.jpg" alt="" title="snoring..." width="680" height="680" class="alignnone size-full wp-image-2273" /></a>
+<a href="http://bitsmack.com/comics/2011/09/25/comic-conciveable/"><img src="http://dl.bitsmack.com/uploads/2011/09/20110925.jpg" alt="" title="snoring..." width="680" height="680" class="alignnone size-full wp-image-2273" /></a>

@@ -7,10 +7,10 @@ comments: true
 categories: [RC's Rants]
 tags: []
 ---
-Previous installments: <a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-1/">Part 1</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-2/">Part 2</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-3/">Part 3</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-4/">Part 4</a> 
+Previous installments: <a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-1/">Part 1</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-2/">Part 2</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-3/">Part 3</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-4/">Part 4</a> 
 
 <strong>Resurrection Man</strong><br>
 What I think is going on: Every time this guy dies he comes back to life with a new super power somehow tied to how he died.<br>

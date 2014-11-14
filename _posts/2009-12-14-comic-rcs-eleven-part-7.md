@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2009/12/14/comic-rcs-eleven-part-7/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091214.jpg" alt="" title="Julie Andrews is my grandma" width="680" height="680" class="alignnone size-full wp-image-1855" /></a>
+<a href="http://bitsmack.com/comics/2009/12/14/comic-rcs-eleven-part-7/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091214.jpg" alt="" title="Julie Andrews is my grandma" width="680" height="680" class="alignnone size-full wp-image-1855" /></a>

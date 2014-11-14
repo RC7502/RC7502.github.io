@@ -7,9 +7,9 @@ comments: true
 categories: [RC's Rants]
 tags: []
 ---
-Previous installments: <a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-1/" title="">Part 1</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-2/" title="">Part 2</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-3/" title="">Part 3</a> 
+Previous installments: <a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-1/" title="">Part 1</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-2/" title="">Part 2</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-3/" title="">Part 3</a> 
 
 <strong>Justice League International</strong><br>
 What I think is going on: This is like the B squad of the Justice League.<br>

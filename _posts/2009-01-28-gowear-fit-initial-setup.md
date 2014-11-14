@@ -19,4 +19,4 @@ I also got the wristwatch display. This took about 10 seconds to set up. My only
 
 I am really looking forward to working out tonight and seeing how many calories I burn. I will post my results after every few days and after a couple weeks see if I lose any weight.
 
-<a href="http://bitsmack.com/wp/tag/gowear-fit/">Click here to read all my articles on GoWear Fit!</a>
+<a href="http://bitsmack.com/comics/tag/gowear-fit/">Click here to read all my articles on GoWear Fit!</a>

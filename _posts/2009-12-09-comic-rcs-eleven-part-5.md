@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2009/12/09/comic-rcs-eleven-part-5/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091209.jpg" alt="" title="This place is so fancy, bless me bagpipes!" width="680" height="680" class="alignnone size-full wp-image-1837" /></a>
+<a href="http://bitsmack.com/comics/2009/12/09/comic-rcs-eleven-part-5/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091209.jpg" alt="" title="This place is so fancy, bless me bagpipes!" width="680" height="680" class="alignnone size-full wp-image-1837" /></a>

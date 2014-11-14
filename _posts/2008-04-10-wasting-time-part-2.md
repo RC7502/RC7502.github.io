@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [brad, rc]
 ---
-<a href="http://bitsmack.com/wp/2008/04/10/wasting-time-part-2/"><img src='http://dl.bitsmack.com/uploads/2008/04/20080410.jpg' title='In retrospect I probably should not have tried to build it out of a beer bong' /></a>
+<a href="http://bitsmack.com/comics/2008/04/10/wasting-time-part-2/"><img src='http://dl.bitsmack.com/uploads/2008/04/20080410.jpg' title='In retrospect I probably should not have tried to build it out of a beer bong' /></a>

@@ -11,4 +11,4 @@ tags: [bodybugg, fitness, gowear fit, running]
 
 Basically, what I'm looking for is a more accurate target on how much I can eat every day, as well as a fun new gadget to keep me motivated in running. I'll post regular reviews once it arrives so check back here for more info!
 
-<a href="http://bitsmack.com/wp/tag/gowear-fit/">Click here to read all my articles on GoWear Fit!</a>
+<a href="http://bitsmack.com/comics/tag/gowear-fit/">Click here to read all my articles on GoWear Fit!</a>

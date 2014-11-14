@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2010/12/25/gift-of-the-bitsmack/"><img src="http://dl.bitsmack.com/uploads/2010/12/20101225.jpg" alt="" title="" width="680" height="1300" class="alignnone size-full wp-image-2105" /></a>
+<a href="http://bitsmack.com/comics/2010/12/25/gift-of-the-bitsmack/"><img src="http://dl.bitsmack.com/uploads/2010/12/20101225.jpg" alt="" title="" width="680" height="1300" class="alignnone size-full wp-image-2105" /></a>

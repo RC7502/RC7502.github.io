@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: [goz, rc]
 ---
-<a href="http://bitsmack.com/wp/2008/08/05/a-different-perspective"><img src="http://dl.bitsmack.com/uploads/2008/08/20080805.jpg" alt="" title="After this RC started a story with 'back in my day' and then exclaimed 'oh no it's starting already!'" class="alignnone size-full wp-image-1430" /></a>
+<a href="http://bitsmack.com/comics/2008/08/05/a-different-perspective"><img src="http://dl.bitsmack.com/uploads/2008/08/20080805.jpg" alt="" title="After this RC started a story with 'back in my day' and then exclaimed 'oh no it's starting already!'" class="alignnone size-full wp-image-1430" /></a>

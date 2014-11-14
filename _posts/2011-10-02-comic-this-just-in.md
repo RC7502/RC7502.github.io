@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2011/10/02/comic-this-just-in/"><img src="http://dl.bitsmack.com/uploads/2011/10/20111002.jpg" alt="" title="to be continued..." width="680" height="680" class="alignnone size-full wp-image-2277" /></a>
+<a href="http://bitsmack.com/comics/2011/10/02/comic-this-just-in/"><img src="http://dl.bitsmack.com/uploads/2011/10/20111002.jpg" alt="" title="to be continued..." width="680" height="680" class="alignnone size-full wp-image-2277" /></a>

@@ -7,7 +7,7 @@ comments: true
 categories: [RC's Rants]
 tags: []
 ---
-A few weeks ago I talked about <a href="http://bitsmack.com/wp/2009/09/11/using-google-spreadsheets-to-track-game-progress/">how I was using a spreadsheet to track my video game progress.</a> However, one of the issues I keep running into is deciding what qualifies as "beating" a video game. 
+A few weeks ago I talked about <a href="http://bitsmack.com/comics/2009/09/11/using-google-spreadsheets-to-track-game-progress/">how I was using a spreadsheet to track my video game progress.</a> However, one of the issues I keep running into is deciding what qualifies as "beating" a video game. 
 
 In the Atari days there was no way to complete a video game. You kept playing and the game kept getting harder and harder until you lost. Your only goal was to get a new high score. When the NES came along games had stories and once you defeated the final level or boss the game was over. With these older games it's easy to track your progress. If there are 10 levels and you've completed 4 then you are 40% complete. 
 

@@ -11,7 +11,7 @@ Since I got some complaints about the length of my recap last week click below t
 
 <!--more-->
 
-Previously on Heroes <a href="http://bitsmack.com/wp/2008/12/04/heroes-recap-the-eclipse-parts-1-2/">this stuff happened.</a>
+Previously on Heroes <a href="http://bitsmack.com/comics/2008/12/04/heroes-recap-the-eclipse-parts-1-2/">this stuff happened.</a>
 
 Hiro and Claire watch as Noah takes ownership of baby Claire. Hiro doesn't speak English, Claire doesn't speak Japanese. Can you guess what ensues next? Hilarity! We find out that Hiro's mom was a healer and that she is dying. They want to put the catalyst in Claire. Hiro and Claire share and enjoyable moment and I wish they had more adventures together.
 

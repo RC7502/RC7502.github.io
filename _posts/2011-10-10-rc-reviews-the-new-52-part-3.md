@@ -7,8 +7,8 @@ comments: true
 categories: [RC's Rants]
 tags: []
 ---
-Previous installments: <a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-1/">Part 1</a> 
-<a href="http://bitsmack.com/wp/2011/10/08/rc-reviews-the-new-52-part-2/">Part 2</a> 
+Previous installments: <a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-1/">Part 1</a> 
+<a href="http://bitsmack.com/comics/2011/10/08/rc-reviews-the-new-52-part-2/">Part 2</a> 
 
 <strong>Frankenstein Agent of SHADE</strong><br>
 What I think is going on: Frankenstein and some monsters form a super hero team.<br>

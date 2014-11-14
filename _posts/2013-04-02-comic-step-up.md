@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/wp/2013/04/02/comic-step-up/attachment/20130402/" rel="attachment wp-att-2472"><img src="http://dl.bitsmack.com/uploads/2013/04/20130402.jpg" alt="" title="" width="680" height="680" class="alignnone size-full wp-image-2472" /></a>
+<a href="http://bitsmack.com/comics/2013/04/02/comic-step-up/" rel="attachment wp-att-2472"><img src="http://dl.bitsmack.com/uploads/2013/04/20130402.jpg" alt="" title="" width="680" height="680" class="alignnone size-full wp-image-2472" /></a>
