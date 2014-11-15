@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/comics/2012/12/12/comic-no-patience/" rel="attachment wp-att-2413"><img src="http://dl.bitsmack.com/uploads/2012/12/20121212.jpg" alt="" title="" width="680" height="680" class="alignnone size-full wp-image-2413" /></a>
+<a href="http://bitsmack.com/comics/2012/12/12/comic-no-patience/" rel="attachment wp-att-2413"><img src="http://dl.bitsmack.com/uploads/2012/12/20121212.jpg" alt="" title=""  class="alignnone size-full wp-image-2413" /></a>

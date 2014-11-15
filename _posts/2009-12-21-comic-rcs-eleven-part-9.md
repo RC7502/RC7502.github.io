@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/comics/2009/12/21/comic-rcs-eleven-part-9/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091221.jpg" alt="" title="just not Fantasia, @$#! Fantasia" width="680" height="680" class="alignnone size-full wp-image-1874" /></a>
+<a href="http://bitsmack.com/comics/2009/12/21/comic-rcs-eleven-part-9/"><img src="http://dl.bitsmack.com/uploads/2009/12/20091221.jpg" alt="" title="just not Fantasia, @$#! Fantasia"  class="alignnone size-full wp-image-1874" /></a>

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/comics/2009/11/30/comic-rcs-eleven-part-1/"><img src="http://dl.bitsmack.com/uploads/2009/11/20091130.jpg" alt="" title="bring your ski mask, the black one" width="680" height="680" class="alignnone size-full wp-image-1808" /></a>
+<a href="http://bitsmack.com/comics/2009/11/30/comic-rcs-eleven-part-1/"><img src="http://dl.bitsmack.com/uploads/2009/11/20091130.jpg" alt="" title="bring your ski mask, the black one"  class="alignnone size-full wp-image-1808" /></a>

@@ -7,7 +7,7 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="http://bitsmack.com/comics/2009/11/26/comic-the-last-rave/"><img src="http://dl.bitsmack.com/uploads/2009/11/20091126.jpg" alt="" title="Happy Thanksgiving!" width="680" height="680" class="alignnone size-full wp-image-1797" /></a>
+<a href="http://bitsmack.com/comics/2009/11/26/comic-the-last-rave/"><img src="http://dl.bitsmack.com/uploads/2009/11/20091126.jpg" alt="" title="Happy Thanksgiving!"  class="alignnone size-full wp-image-1797" /></a>
 
 And thus ends the Thanksgiving rave tradition. If you have no idea what's going on here are past Thanksgiving comics:
 
