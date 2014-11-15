@@ -27,4 +27,4 @@ I know people think Chrono Trigger or Zelda are the best and I don't argue that 
 <br />
 On another note, someone added the game Global Gladiators for the Genesis. This game is already there under the title Mick and Mack: Global Gladiators.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030319.jpg" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030319.jpg" alt="" />

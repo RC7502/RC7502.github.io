@@ -20,4 +20,4 @@ But RC this isn't the 80s, how does this apply to me? Well I'll tell you! If you
 <br />
 Once you master these methods you'll be killing time the Bitsmack way!
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030808.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030808.gif" alt="" />

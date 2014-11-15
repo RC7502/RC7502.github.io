@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<!--more--><img src="/http://dl.bitsmack.com/comics/20020906.gif" alt="" />
+<!--more--><img src="http://dl.bitsmack.com/comics/20020906.gif" alt="" />

@@ -18,4 +18,4 @@ Last night K-Dog, the youth group and I went to the Relient K album release part
 <br />
 One last thing, we're still looking for comic nominations. So far we have 3. Even if you don't plan on buying a shirt you can still nominate a comic. I'm curious to see which ones are favorites. Click "comments" below.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030312.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030312.gif" alt="" />

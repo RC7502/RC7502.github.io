@@ -15,4 +15,4 @@ The world of gaming has been pretty boring lately. If you need proof read the la
 <br />
 We've got a few nominations for comics to be featured on the Bitsmack, but we need more. If you'd like a tshirt of your favorite comic, click "comments" below.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030306.jpg" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030306.jpg" alt="" />

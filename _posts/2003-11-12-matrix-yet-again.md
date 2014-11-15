@@ -12,4 +12,4 @@ Ok, I went into Matrix Revolutions expecting a terrible movie... I came out thin
 <br />
 <p>Oh, well. <a HREF='/modules.php?op=modload&name=Comics&file=index&action=comic&id=354'>Here's a comic</a>.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20031112.jpg" alt="" /></p>
+<img src="http://dl.bitsmack.com/comics/20031112.jpg" alt="" /></p>

@@ -9,4 +9,4 @@ tags: []
 ---
 Today's comic is number <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=120>100.</a>
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030226.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030226.gif" alt="" />

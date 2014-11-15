@@ -18,4 +18,4 @@ I also picked up a couple interesting games this week. I happened to be at Targe
 <br />
 If you haven't noticed, there seem to be this new crop of PS1 games showing up everywhere. They're usually about $10 and have generic names like "Racing" or "Billiards." I found one called "Superstar Dance Club." I thought, "could it be, someone made an affordable clone to DDR?" Not exactly. The game is more like Parappa where you have to hit the right button as the cursor goes from left to right to the beat of the music. It is mildly entertaining and I could always try it out with the dance pad to see what that's like.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030228.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030228.gif" alt="" />

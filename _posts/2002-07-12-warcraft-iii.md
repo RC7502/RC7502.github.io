@@ -8,4 +8,4 @@ categories: [Comics]
 tags: []
 ---
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/comic 8.jpg" alt="" />
+<img src="http://dl.bitsmack.com/comics/comic 8.jpg" alt="" />

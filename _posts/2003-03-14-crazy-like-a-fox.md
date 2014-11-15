@@ -12,4 +12,4 @@ I really wish I didn't have to <a href=modules.php?op=modload&name=Comics&file=i
 <br />
 If you haven't seen it yet there is a new poll on the right. Other than that there really isn't much going on.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20030314.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20030314.gif" alt="" />

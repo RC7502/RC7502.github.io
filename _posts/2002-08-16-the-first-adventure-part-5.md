@@ -15,4 +15,4 @@ I started out playing <a href=modules.php?op=modload&name=Game_Ratings&file=inde
 <br />
 For those of you wondering if kruton has gone insane with the number of reviews he's been posting lately, I can assure you that kruton has in fact lost his mind. I read his reviews as a call for help from someone trapped in the  darkness of his own madness. Read his <a href=modules.php?op=modload&name=Game_Ratings&file=index&action=newestreviews>latest reviews,</a> unless of course you value your own sanity.
 <!--more-->
-<img src="/http://dl.bitsmack.com/comics/20020816.gif" alt="" />
+<img src="http://dl.bitsmack.com/comics/20020816.gif" alt="" />
