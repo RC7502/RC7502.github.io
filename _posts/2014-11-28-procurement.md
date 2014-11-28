@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Procurement"
-date: 2014-11-28
+date: 2014-11-28 09:30
 author: rcadmin
 comments: true
 categories: [Comics]
