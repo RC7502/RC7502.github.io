@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deinnovating"
-date: 2014-12-12 03:31
+date: 2014-12-12 04:31
 author: rcadmin
 comments: true
 categories: [Comics]
