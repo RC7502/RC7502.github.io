@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Specifications"
+title: "Enter Stage Left"
 date: 2015-04-03 01:00
 author: rcadmin
 comments: true
