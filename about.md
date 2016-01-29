@@ -42,4 +42,4 @@ title: About
 
 2014 - The Bitsmack kingdom receives its princess.
 
-2015 - RC attempts to balance geek hobbies with raising two kids
+2015 - RC attempts to balance geek hobbies with raising two kids.
