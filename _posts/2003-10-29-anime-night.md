@@ -11,4 +11,4 @@ Today's <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=
 <br />
 
 <br />
-If you're not familar with Bawls, it is a caffeine drink that was founded by a group of 6th graders. It's nearly impossible to mention its name without spawning 10-20 minutes of jokes about the name. Tastes good though.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031029.gif' alt'' />
+If you're not familar with Bawls, it is a caffeine drink that was founded by a group of 6th graders. It's nearly impossible to mention its name without spawning 10-20 minutes of jokes about the name. Tastes good though.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031029.gif'   />

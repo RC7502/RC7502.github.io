@@ -30,4 +30,4 @@ So yeah, we went and saw the movie. It was ok. There weren't really any surprise
 8. and the rest
 <br />
 <br />
-You are free to argue with my rankings. Until next time, live long and prosper.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021216.gif' alt'' />
+You are free to argue with my rankings. Until next time, live long and prosper.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021216.gif'   />

@@ -16,4 +16,4 @@ I had some problems connecting to XBOX Live last night. Since it is just a beta 
 I recently bought the Microsoft Strategic Commander. It is a game device designed to fit in the left hand and make keyboard shortcuts for RTS games easier. I tried it out with Unreal Tournament, but it just doesn't work well for FPSs. Although it does work really well with Paint Shop Pro. 
 <br />
 <br />
-Tonight kruton, Goz and I are heading to Easton for the unveiling of Apple OS 10.2. I expect to see the usual mix of the rich and the hippie. I know OS releases are notorious for ensueing "Animal House" style parties, but I am more excited about going to GameWorks and playing a little DDR. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020823.gif' alt'' />
+Tonight kruton, Goz and I are heading to Easton for the unveiling of Apple OS 10.2. I expect to see the usual mix of the rich and the hippie. I know OS releases are notorious for ensueing "Animal House" style parties, but I am more excited about going to GameWorks and playing a little DDR. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020823.gif'   />

@@ -15,4 +15,4 @@ So I finally got to play Amplitude this weekend, but I have mixed feelings about
 <br />
 
 <br />
-In case you were wondering, a 20" monitor is better than a 17".<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030407.gif' alt'' />
+In case you were wondering, a 20" monitor is better than a 17".<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030407.gif'   />

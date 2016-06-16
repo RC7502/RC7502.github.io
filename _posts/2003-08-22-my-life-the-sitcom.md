@@ -15,4 +15,4 @@ Anyway, today's comic is ripped straight from my life. I was in McDonalds yester
 <br />
 
 <br />
-<a href=http://www.ryancollins.org/modules.php?op=modload&name=News&file=article&sid=53&mode=thread&order=0&thold=0><img border=0 vspace=5 hspace=5 align=left src=images/news/20030822.jpg></a>Today's comic is dedicated to Goz and his wife who are expecting their first offspring. We'll be watching his/her career with great interest.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030822.gif' alt'' />
+<a href=http://www.ryancollins.org/modules.php?op=modload&name=News&file=article&sid=53&mode=thread&order=0&thold=0><img border=0 vspace=5 hspace=5 align=left src=images/news/20030822.jpg></a>Today's comic is dedicated to Goz and his wife who are expecting their first offspring. We'll be watching his/her career with great interest.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030822.gif'   />

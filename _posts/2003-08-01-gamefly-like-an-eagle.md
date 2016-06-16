@@ -27,4 +27,4 @@ However I'm also a game collector. Before Gamefly I very rarely rented games and
 I am certainly happy with the service but it does have its faults. Because they're located in CA, it's about 8-10 days from the time I send a game to the time I get the next one. Since I can have two games out at a time, I alternate so that I  always have one at my place and one in transit. 
 <br />
 <br />
-I'll admit Gamefly isn't for everybody. However, if you rent more than 4 games a month or get tired of the games you buy too quickly I recommend checking it out. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030801.gif' alt'' />
+I'll admit Gamefly isn't for everybody. However, if you rent more than 4 games a month or get tired of the games you buy too quickly I recommend checking it out. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030801.gif'   />

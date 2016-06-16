@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-Well, Brad <a href='http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=467'>moved out</a> over the weekend.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20050808.png' alt'' />
+Well, Brad <a href='http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=467'>moved out</a> over the weekend.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20050808.png'   />

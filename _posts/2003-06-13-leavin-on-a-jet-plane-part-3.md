@@ -27,4 +27,4 @@ Uh oh, now I've probably pissed off Friday the 13th, but what's he going to do a
 <br />
 ......
 <br />
-<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030613.gif' alt'' />
+<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030613.gif'   />

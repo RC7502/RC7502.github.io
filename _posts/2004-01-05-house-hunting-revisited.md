@@ -11,4 +11,4 @@ As you can tell by <a href=http://www.bitsmack.com/modules.php?op=modload&name=C
 <br />
 
 <br />
-Also, if you don't get today's comic, pick up a copy of Paperboy right away.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040105.gif' alt'' />
+Also, if you don't get today's comic, pick up a copy of Paperboy right away.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20040105.gif'   />

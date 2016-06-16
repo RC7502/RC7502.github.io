@@ -19,4 +19,4 @@ In other news, I'm over halfway through Paper Mario and I've been playing about 
 The results of the poll are in and it looks like I'll be adding classic and computer games to Bitsmack. There is a new post in the forums where you can list what you computers you want to see added to Bitsmack.
 <br />
 <br />
-Also, if you had any problems viewing the comic I have fixed it now.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030217.gif' alt'' />
+Also, if you had any problems viewing the comic I have fixed it now.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030217.gif'   />

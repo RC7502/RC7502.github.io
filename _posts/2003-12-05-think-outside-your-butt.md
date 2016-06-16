@@ -19,4 +19,4 @@ So anyway the holiday season is upon us. It's time for me to take a break from m
 <br />
 
 <br />
-Wait, did I say crochet? I meant croquet.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031205.gif' alt'' />
+Wait, did I say crochet? I meant croquet.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031205.gif'   />

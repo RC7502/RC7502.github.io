@@ -11,4 +11,4 @@ Here is the last <a href=http://www.bitsmack.com/modules.php?op=modload&name=Com
 <br />
 
 <br />
-I've always liked New Year's Eve. There's something so exciting about putting up a new calendar. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031231.gif' alt'' />
+I've always liked New Year's Eve. There's something so exciting about putting up a new calendar. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031231.gif'   />

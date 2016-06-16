@@ -10,4 +10,4 @@ tags: []
 This <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=266>comic</a> should explain why I am in charge now.
 <br />
 <br />
-Your precious RC and K-Dog did not take me seriously as an evil villian and now they have paid the ultimate price. I have taken over this so-called "website" and plan to rule it with an iron fist!! Be prepared for changes to come. HA! HA! HA!<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030401.gif' alt'' />
+Your precious RC and K-Dog did not take me seriously as an evil villian and now they have paid the ultimate price. I have taken over this so-called "website" and plan to rule it with an iron fist!! Be prepared for changes to come. HA! HA! HA!<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030401.gif'   />

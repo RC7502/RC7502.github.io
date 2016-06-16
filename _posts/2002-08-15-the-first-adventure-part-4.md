@@ -15,4 +15,4 @@ Dispite kruton's streak of video game wins I haven't been playing anything this 
 Next week is my last week before I trade in my freedom for the shackles of undergraduate education. I tried to trade in my freedom at Software Etc. for store credit but they wouldn't give me enough money to buy Kabuki Warriors. Since school is starting up again I am only going to be able to post new comics on Mon, Wed and Fri. 
 <br />
 <br />
-One last note, if you haven't tried Vanilla Coke yet, it is awesome. I don't really like regular Coke, and I don't really like Vanilla Ice, but put the two together and you have a tasty drink. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020815.gif' alt'' />
+One last note, if you haven't tried Vanilla Coke yet, it is awesome. I don't really like regular Coke, and I don't really like Vanilla Ice, but put the two together and you have a tasty drink. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020815.gif'   />

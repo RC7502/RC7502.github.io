@@ -15,4 +15,4 @@ Other than Final Fantasy Origins I can't think of any exciting games coming out.
 <br />
 
 <br />
-Today I'm heading to K-Dog's to play this glorious Amplitude I've heard so much about. I started to brush up on my Frequency skills but Beatmania IIDX is still more fun. In fact, I feel like playing it right now...<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030404.gif' alt'' />
+Today I'm heading to K-Dog's to play this glorious Amplitude I've heard so much about. I started to brush up on my Frequency skills but Beatmania IIDX is still more fun. In fact, I feel like playing it right now...<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030404.gif'   />

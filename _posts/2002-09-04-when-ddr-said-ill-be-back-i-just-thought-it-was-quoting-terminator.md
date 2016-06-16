@@ -23,4 +23,4 @@ Prick #2: Why the hell should I care what a bunch of nerds think?
 <br />
 Prick #1: Good point. Wow... putting crappy shows on TV is exhusting. Let's go play some golf, and admire each others BMWs.
 <br />
-Prick #2: Sounds good. Then tomorrow I have an idea on how we can ruin Go-Bots. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020904.gif' alt'' />
+Prick #2: Sounds good. Then tomorrow I have an idea on how we can ruin Go-Bots. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020904.gif'   />

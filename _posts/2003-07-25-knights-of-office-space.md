@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-Star Wars KOTOR is fun enough to do <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=311>another comic</a> about it.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030725.gif' alt'' />
+Star Wars KOTOR is fun enough to do <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=311>another comic</a> about it.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030725.gif'   />

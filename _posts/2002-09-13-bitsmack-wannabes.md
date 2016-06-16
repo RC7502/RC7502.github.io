@@ -21,4 +21,4 @@ Oakland Park Community Building
 <br />
 Columbus, Oh
 <br />
-I'll put up my full report on Monday along with pictures, hopefully.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020913.gif' alt'' />
+I'll put up my full report on Monday along with pictures, hopefully.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20020913.gif'   />

@@ -16,4 +16,4 @@ I had the typical holiday: presents, food, battle for world domination. K-Dog, G
 K-Dog finally got an XBOX. We played co-op on Serious Sam and it was a lot of fun.
 <br />
 <br />
-Lastly, I got a chance to check out a couple of really cool cartoons this week. The first is Undergrads. It is awesome. I think it does a good job of depicting college life from a geek's point of view. You should definately check it out on Comedy Central. The other cartoon was Aqua Teen Hunger Force. I can't describe how messed up this cartoon is. It is on Cartoon Network Adult Swim.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021227.gif' alt'' />
+Lastly, I got a chance to check out a couple of really cool cartoons this week. The first is Undergrads. It is awesome. I think it does a good job of depicting college life from a geek's point of view. You should definately check it out on Comedy Central. The other cartoon was Aqua Teen Hunger Force. I can't describe how messed up this cartoon is. It is on Cartoon Network Adult Swim.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021227.gif'   />

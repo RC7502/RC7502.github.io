@@ -37,4 +37,4 @@ As you can see I live a very full and rewarding life. Anyway, yesterday I starte
 <br />
 <a href=http://www.play-asia.com/paOS-13-70-2r2-71-r.html>Transformers (the original, not Armada crap)</a>
 <br />
-<a href=http://www.play-asia.com/paOS-13-70-2oe-71-46.html>Mojib Ribbon</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031017.gif' alt'' />
+<a href=http://www.play-asia.com/paOS-13-70-2oe-71-46.html>Mojib Ribbon</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031017.gif'   />

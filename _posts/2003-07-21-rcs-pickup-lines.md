@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-I shouldn't write a book of <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=309>pickup lines.</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030721.gif' alt'' />
+I shouldn't write a book of <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=309>pickup lines.</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030721.gif'   />

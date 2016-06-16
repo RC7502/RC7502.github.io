@@ -10,4 +10,4 @@ tags: []
 When the guest comic gauntlet was thrown down, Craig Maloney <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=388>accepted the challenge.</a>
 <br />
 <br />
-Still moving. Still busy. No time for complete sentences. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20040225.png' alt'' />
+Still moving. Still busy. No time for complete sentences. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20040225.png'   />

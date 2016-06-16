@@ -15,4 +15,4 @@ All this free time is getting a little boring, although I do have a job intervie
 <br />
 <b>Afterthoughts:</b>
 <br />
-My interview went pretty well. I won't know if I got the job for another week though. Stay tuned for the latest news.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030115.jpg' alt'' />
+My interview went pretty well. I won't know if I got the job for another week though. Stay tuned for the latest news.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030115.jpg'   />

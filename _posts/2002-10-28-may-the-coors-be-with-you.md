@@ -16,4 +16,4 @@ So Friday night we went and saw Jackass the movie. Basically it was just like th
 Saturday I got to see The Ring. It was somewhat interesting but not scary at all. It was boring enough that I wouldn't want to sit through it again. 2 out of 5 stars.
 <br />
 <br />
-Friday I also got an email from RedOctane saying my Drummania Drum Set should be here in 2-4 weeks. The countdown is on! 26 days remaining.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021028.gif' alt'' />
+Friday I also got an email from RedOctane saying my Drummania Drum Set should be here in 2-4 weeks. The countdown is on! 26 days remaining.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021028.gif'   />

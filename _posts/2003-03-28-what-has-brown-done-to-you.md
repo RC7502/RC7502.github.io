@@ -17,4 +17,4 @@ If the Bitsmack humor leaves you unfulfilled you really have to check out <a hre
 <br />
 Also, I've been doing some research into the PC game Doom. Doom and Doom II were originally DOS games. According to Gamestop, their version for Doom II requires Windows to run. So it's possible there are two versions of Doom II, a Windows and a  DOS. I haven't found any Windows version of Doom I so I left it in the DOS catagory. If anyone has further information on this let me know.
 <br />
-<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030328.gif' alt'' />
+<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030328.gif'   />

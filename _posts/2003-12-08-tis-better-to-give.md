@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-After you read <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=364>this comic,</a> there's only 17 shopping days until Christmas.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031208.gif' alt'' />
+After you read <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=364>this comic,</a> there's only 17 shopping days until Christmas.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031208.gif'   />

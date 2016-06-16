@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-Here is a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=450>comic.</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20050303.png' alt'' />
+Here is a <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&file=index&action=comic&id=450>comic.</a><Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20050303.png'   />

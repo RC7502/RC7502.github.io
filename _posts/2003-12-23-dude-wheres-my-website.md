@@ -15,4 +15,4 @@ So last weekend was pretty eventful. There was the Devryguyz Christmas party, th
 <br />
 <b>Cool site of the day</b>
 <br />
-I also found a cool site called <a href=http://www.guzzlefish.com>Guzzlefish.</a> This site lets you enter in all your DVDs, Games and CDs, then you get a approximate value for your collection. It's pretty fun. You can see my collection <a href=http://www.guzzlefish.com/collection.php?username=chill182>here.</a><br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20031223.gif' alt'' />
+I also found a cool site called <a href=http://www.guzzlefish.com>Guzzlefish.</a> This site lets you enter in all your DVDs, Games and CDs, then you get a approximate value for your collection. It's pretty fun. You can see my collection <a href=http://www.guzzlefish.com/collection.php?username=chill182>here.</a><br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20031223.gif'   />

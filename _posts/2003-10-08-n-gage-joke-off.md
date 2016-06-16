@@ -15,4 +15,4 @@ According to <a href=http://spong.com/index.asp?art=5632>this article</a> Nokia 
 <br />
 
 <br />
-In other news the shirts have been ordered. We should get them in a couple weeks.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031008.gif' alt'' />
+In other news the shirts have been ordered. We should get them in a couple weeks.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20031008.gif'   />

@@ -7,4 +7,4 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-I got RoadRunner yesterday and now the <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=110>comics</a> are back. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030205.gif' alt'' />
+I got RoadRunner yesterday and now the <a href=modules.php?op=modload&name=Comics&file=index&action=comic&id=110>comics</a> are back. <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030205.gif'   />

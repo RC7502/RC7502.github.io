@@ -15,4 +15,4 @@ Oh well, I am way too tired to give the DS a thorough review. I also have news o
 <br />
 Stay classy Bitsmack.<br />
 <br />
-UPDATE: Here is the <a href=http://amazon.com/gp/registry/HZX80MQT0AYG>Amazon wish list</a> if you want to donate to the Columbus Geeks Children's Hospital charity. We should have page to show our progress soon.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20041123.png' alt'' />
+UPDATE: Here is the <a href=http://amazon.com/gp/registry/HZX80MQT0AYG>Amazon wish list</a> if you want to donate to the Columbus Geeks Children's Hospital charity. We should have page to show our progress soon.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20041123.png'   />

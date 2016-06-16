@@ -17,4 +17,4 @@ There are a lot of cool events coming up: Thanksgiving, my birthday, Graduation,
 things... with the doing. 
 <br />
 <br />
-Crap.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021108.gif' alt'' />
+Crap.<br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20021108.gif'   />

@@ -17,4 +17,4 @@ You can't do too much of one thing. I've been playing a lot of RPGs lately and n
 <br />
 Fun fact of the day:
 <br />
-If a person was born in 1973, they would be almost 30 today! Think about it.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030411.gif' alt'' />
+If a person was born in 1973, they would be almost 30 today! Think about it.<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030411.gif'   />

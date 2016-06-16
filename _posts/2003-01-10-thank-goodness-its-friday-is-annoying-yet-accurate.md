@@ -24,4 +24,4 @@ This dark comedy turns out to be way more dark than comedic. It is the story of 
 This DVD does have some cool special features. The commentary track with Johnson, Smith, Scott Mosier, O'Halloran and Monica Hampton is more entertaining than the movie itself. There is also a documentary in defense of Dogma that didn't make it on to the Dogma DVD. The documentary just basically talks about the controversy surrounding Dogma and doesn't really provide any new information that a View Askew fan wouldn't already know.
 <br />
 <br />
-On my DVD scale of Buy it, Rent it, Avoid it, I would say if you are a View Askew fan rent it. If you're not avoid this movie.  <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030110.jpg' alt'' />
+On my DVD scale of Buy it, Rent it, Avoid it, I would say if you are a View Askew fan rent it. If you're not avoid this movie.  <br /><br /><!--more--><img src='http://dl.bitsmack.com/comics/20030110.jpg'   />

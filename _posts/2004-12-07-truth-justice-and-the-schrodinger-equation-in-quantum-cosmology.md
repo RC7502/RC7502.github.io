@@ -11,4 +11,4 @@ Yet another <a href=http://www.bitsmack.com/modules.php?op=modload&name=Comics&f
 <br />
 So last weekend was pretty good. My birthday party was Saturday night and we had about 14 people. Equal number of guys and girls! Some played Mario Kart 64, some played Karaoke Revolution and others decided to give me money in a couple of poker games. The Raj also invented a new way to play Win, Lose or Draw using Pictochat on the DS. Ooh, that might be a good idea for a comic. Forget I said anything. <br />
 <br />
-In other news I beat Super Mario 64 DS already. Somebody please release some more games for this system!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20041207.png' alt'' />
+In other news I beat Super Mario 64 DS already. Somebody please release some more games for this system!<Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20041207.png'   />
