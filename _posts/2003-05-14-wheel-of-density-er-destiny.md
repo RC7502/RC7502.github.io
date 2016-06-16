@@ -15,4 +15,4 @@ Tonight is the Matrix and I couldn't be more excited. I'm hoping this is the "Em
 <br />
 
 <br />
-If you like DDR or have no idea what it is you should check out <a href=http://www.bemanistyle.com>www.bemanistyle.com.</a> It's a great site for all things Bemani. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030514.gif' alt'' />
+If you like DDR or have no idea what it is you should check out <a href=http://www.bemanistyle.com>www.bemanistyle.com.</a> It's a great site for all things Bemani. <Br><br><!--more--><img src='http://dl.bitsmack.com/comics/20030514.gif'  />
