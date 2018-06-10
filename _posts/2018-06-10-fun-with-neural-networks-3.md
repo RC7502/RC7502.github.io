@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fun With Neural Networks 2"
+title: "Fun With Neural Networks 3"
 date: 2018-06-10 01:00
 author: rcadmin
 comments: true
