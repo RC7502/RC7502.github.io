@@ -26,7 +26,7 @@ New coming coming on Tuesday! In the meantime, here is every Bitsmack Christmas 
 <a href="../comics/2015/12/21/bitsmacks-frozen-part-1/">2015 - Part 1</a><br>
 <a href="../comics/2015/12/22/bitsmacks-frozen-part-2/">2015 - Part 2</a><br>
 <a href="../comics/2015/12/23/bitsmacks-frozen-part-3/">2015 - Part 3</a><br>
-<a href="../comics/2015/12/24/bitsmacks-frozen-part-4/">2015 - Part 4</a><br>
+<a href="../comics/2015/12/25/bitsmacks-frozen-part-4/">2015 - Part 4</a><br>
 <a href="../comics/2015/12/26/bitsmacks-frozen-epilogue/">2015 - Epilogue</a><br>
 <a href="../comics/2016/12/25/wonderful-gaming-night/">2016</a><br>
 <a href="../comics/2017/12/25/last-christmas/">2017</a><br>
