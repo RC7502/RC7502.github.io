@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J&B: ET Rulez!"
+title: "J&amp;B: ET Rulez!"
 date: 2003-11-12 00:09
 author: rcadmin
 comments: true
