@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction: Jack & Benny"
+title: "Introduction: Jack &amp; Benny"
 date: 2003-11-05 00:44
 author: rcadmin
 comments: true
