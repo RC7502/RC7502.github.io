@@ -7,5 +7,5 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="../comics/2019/05/10"><img src="http://dl.bitsmack.com/comics/20190510.jpg" /></a>
+<a href="../comics/2019/05/10/disthusiast"><img src="http://dl.bitsmack.com/comics/20190510.jpg" /></a>
 

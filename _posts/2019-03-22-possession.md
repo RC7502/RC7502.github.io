@@ -7,5 +7,5 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="../comics/2019/03/22"><img src="http://dl.bitsmack.com/comics/20190322.jpg" /></a>
+<a href="../comics/2019/03/22/possession"><img src="http://dl.bitsmack.com/comics/20190322.jpg" /></a>
 

@@ -7,5 +7,5 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="../comics/2019/03/08"><img src="http://dl.bitsmack.com/comics/20190308.jpg" /></a>
+<a href="../comics/2019/03/08/ramifications"><img src="http://dl.bitsmack.com/comics/20190308.jpg" /></a>
 

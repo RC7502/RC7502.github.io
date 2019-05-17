@@ -7,5 +7,5 @@ comments: true
 categories: [Comics]
 tags: []
 ---
-<a href="../comics/2019/04/19"><img src="http://dl.bitsmack.com/comics/20190419.jpg" /></a>
+<a href="../comics/2019/04/19/Laborious"><img src="http://dl.bitsmack.com/comics/20190419.jpg" /></a>
 
